@@ -7,4 +7,9 @@ title: Forside
 
 – anmeldelser af journalistik –
 
-Der kommer en liste her i næste skridt.
+## Seneste anmeldelser
+
+{% raw %}{% for post in site.posts %}
+- **[{{ post.karakter }}]** [{{ post.medie }}: “{{ post.title }}”]({{ post.url | relative_url }})  
+  Anmeldt {{ post.anmeldt }}
+{% endfor %}{% endraw %}
