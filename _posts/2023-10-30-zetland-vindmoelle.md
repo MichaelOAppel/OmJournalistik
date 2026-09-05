@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Zetland: Løkke gav kunstigt åndedræt til dødsdømt vindmølleprojekt"
+title: "Løkke gav kunstigt åndedræt til dødsdømt vindmølleprojekt"
 karakter: 10
 medie: Zetland
 artikel_dato: 2023-10-05
