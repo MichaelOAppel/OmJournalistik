@@ -9,7 +9,7 @@ anmeldt: 2022-04-02
 
 **[10]** TV2 Nyhederne: “Hospitaler modsiger Heunicke-udtalelse om alkoholforgiftede unge: – Vi er på ingen måde oversvømmet” (18.3.22)  
 **[12]** TV2 Fyn: “Sundhedsministeren taler om skadestuer oversvømmet med fulde unge – det genkender de slet ikke på OUH” (17.3.22)  
-Anmeldt: {{ page.anmeldt }}
+Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Metoden er enkel og derfor smuk: Sammenlign en politikers ord med virkeligheden.
 
