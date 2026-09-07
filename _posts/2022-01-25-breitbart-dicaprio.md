@@ -8,7 +8,7 @@ anmeldt: 2022-01-25
 ---
 
 **[{{ page.karakter }}]** {{ page.medie }}  
-Artikel: {{ page.artikel_dato }} · Anmeldt: {{ page.anmeldt }}
+Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Breitbart er et amerikansk netmedie, der publicerer holdningsbaseret journalistik. Holdningerne afspejler et mix af populisme, konservatisme og libertarianisme. Det er, for nogle emner, en umage *threesome* – det er fx svært at forene populisme og lukkede grænser på den ene side og libertarianisme og åbne grænser på den anden – men der er fælles opfattelser, og hvor de er uforenelige foretrækker redaktionen for tiden tilsyneladende en populisme lidt a la Trump.
 
