@@ -8,7 +8,7 @@ anmeldt: 2022-05-11
 ---
 
 **[{{ page.karakter }}]** {{ page.medie }}  
-Artikel: {{ page.artikel_dato }} · Anmeldt: {{ page.anmeldt }}
+Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Maj måneds suverænt bedste medarbejder på TV2 kan allerede nu kåres: Nemlig den tænksomme eksistens på kanalen, som kom på den idé, at man skulle ha’ et interview med Andrej Kurkov.
 
