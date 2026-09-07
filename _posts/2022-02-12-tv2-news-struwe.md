@@ -8,7 +8,7 @@ anmeldt: 2022-02-12
 ---
 
 **[{{ page.karakter }}]** {{ page.medie }}  
-Artikel: {{ page.artikel_dato }} · Anmeldt: {{ page.anmeldt }}
+Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 TV2 News’ interview med Atlantsammenslutningens generalsekretær Lars B. Struwe har nogle væsentlige journalistiske mangler.
 
