@@ -8,7 +8,7 @@ anmeldt: 2022-01-29
 ---
 
 **[{{ page.karakter }}]** {{ page.medie }}  
-Artikel: {{ page.artikel_dato }} · Anmeldt: {{ page.anmeldt }}
+Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Læsere får nyttig information i denne artikel om Bidens mulighed for at udpege en ny højesteretsdommer, men der er også nogle bemærkelsesværdige mangler. På trods af at baggrunden for Bidens ønske om at indsætte en afroamerikansk kvinde som højesteretsdommer er særdeles veldokumenteret – og meget interessant – så oplyser Berlingske ikke læserne om den del af historien.
 
