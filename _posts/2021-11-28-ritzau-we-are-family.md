@@ -8,7 +8,7 @@ anmeldt: 2021-11-28
 ---
 
 **[{{ page.karakter }}]** {{ page.medie }}  
-Artikel: {{ page.artikel_dato }} · Anmeldt: {{ page.anmeldt }}
+Artikel: {{ page.artikel_dato }} · Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Bundkarakterer til Ritzau, TV2 Nyhederne, DR, Jyllands-Posten, Berlingske Tidende, Politiken, BT, Kristeligt Dagblad og Ekstra Bladet for deres håndtering af fejl på udenrigsstoffet. Sådan har det været i lang tid, og sådan er det også for denne historie. DR er ikke helt så ringe som de andre, men også DR har en utilfredsstillende praksis og procedure.
 
