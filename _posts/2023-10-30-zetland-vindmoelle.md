@@ -18,6 +18,8 @@ Zetland formulerer temaet som:
 
 Der er meget godt i Zetlands artikel, men lige præcis den vinkling er problematisk, for den antager fejlagtigt, at de to skitserede muligheder udelukker hinanden. Og det er forkert. Det er forkert på forhånd at udelukke, at LLR søgte at fremme *såvel* udbygningen af vindanlæg *som* CIP-Ørsteds vilkår – jeg underholder nedenfor med, at det nok i virkeligheden var det, der skete. Altså at LLR vurderede og helhjertet tror på, at selektiv hjælp til CIP-Ørsted styrker *både* den grønne omstilling *og* den danske økonomi.
 
+![Collage med teksteksempler fra Zetland]({{ '/assets/figures/zetland-1.jpg' | relative_url }})
+
 *Figur: Collage med teksteksempler fra Zetland*
 
 Men hvorfor er Zetlands historie så overhovedet værd at læse? Det er den, fordi den, trods den tvivlsomme vinkling, giver en fin beskrivelse af, hvordan den politiske beslutningsproces foregår i virkeligheden. Og selvom det ikke er Zetlands fokus og vinkling, så afslører historien tre interessante forhold: Nemlig at regeringen dels er villig til at gå lige så langt som stereotypen af en fransk politiker i forsøget på at bøje EU-reglerne om lige konkurrence, dels er engageret tilhænger af såkaldt selektiv erhvervspolitik, dels at det juridiske regime, som europæiske virksomheder arbejder i, er meget langt fra idealet om gennemskuelige regler og lighed for loven.
@@ -37,6 +39,8 @@ Men selvom der ikke kan dokumenteres *noget-for-noget*, så står muligheden *no
 Udover de anonyme kilder har Zetland også en kritisk vurdering fra en navngiven kilde, nemlig Krakas direktør Peter Mogensen. Den tidligere socialdemokratiske spindoktor og nuværende Nicolai Wammen-tætte Peter Mogensen (Zetland undlader at deklarere relationen) er en kompetent kilde, og han har en kontant vurdering af CIP’s projekt: nemlig, at der mangler saglige argumenter for, at det “skulle overleve”.
 
 Zetland refererer loyalt LLR, der afviser, at der er taget et særligt hensyn *til CIP*. Men det sker med (endnu en) forsikringsagents bevidste fornemmelse for upræcist ordvalg, hvor LLR ikke afviser, at intentionen har været at tage et særligt hensyn til danske virksomheder – tværtimod nærmest praler han med det. Blot er det, må man forstå, en tilfældighed, at gevinsten faldt i CIP’s hænder.
+
+![Collage med uddrag fra Zetland-artikel om LLR]({{ '/assets/figures/zetland-2.jpg' | relative_url }})
 
 *Figur: Collage med uddrag fra Zetland-artikel om LLR - et studie i selektiv erhvervspolitik*
 
