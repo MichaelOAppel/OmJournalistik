@@ -20,17 +20,23 @@ Theilgaard er en interessant, markant og engageret aktør i debatten om klimapol
 
 Berlingskes interview indeholder seks citater fra Theilgaard, og i intet af de seks eksempler er der et udfordrende spørgsmål før Theilgaards svar – eller som opfølgning. Theilgaard omtaler i interviewet personer med synspunkter, der afviger fra hans, som “klaphatte”.
 
+![Dok-Collage - Berlingske artikel med mikrofonholderi]({{ '/assets/figures/berlingske-graf-1.jpg' | relative_url }})
+
 *Figur 1: Dok-Collage - Berlingske artikel med mikrofonholderi*
 
 Problemet med den manglende opfølgning på Theilgaards kritik af mediernes dækning af varmerekorden er, at Theilgaards kritik strider med virkeligheden. Der *var* en massiv dækning af rekorden. Se figur 2 nedenfor. Blandt andre havde Berlingske selv historien! Denne forskel mellem virkeligheden og klimaekspertens/klimaaktivistens fremstilling tigger om et nysgerrigt og kritisk spørgsmål.
 
 Udover det, ville det være relevant at høre om Theilgaards løsninger. Theilgaard har tidligere omtalt demokratiet kritisk, når det gælder håndteringen af klimaforandringer: “Hvor godt demokratiet end er, så er der nogle faldgruber, hvis politikerne ikke er voksne nok.” Hvilke konklusioner drager Theilgaard af den opfattelse? Kunne det tænkes, at demokratiet er ret godt til at afspejle befolkningens præferencer, og at Theilgaard blot har andre værdier end folk flest? Jeg siger ikke, at Theilgaard ikke kan have ret i sin kritik af demokratiet – blot at der da skal spørges til det.
 
+![Dok-Collage - mediedækning af varmerekord]({{ '/assets/figures/berlingske-graf-2.jpg' | relative_url }})
+
 *Figur 2: Dok-Collage - Berlingskes, med mange fleres, mediedækning af varmerekord*
 
 ## Syndere & skyldige
 
 Berlingske havde i øvrigt også en stort opsat historie om de høje *vand*temperaturer, som Theilgaard også nævner som et kritikpunkt. Det gør det endnu mere mærkeligt, at avisen ikke konfronterer Theilgaard med den faktiske mediedækning. Ovenikøbet praktiserer Berlingske generelt en klimajournalistik, der afspejler Theilgaards stærke holdninger. *Synd* og *skyld* er således centrale begreber for Berlingske i deres klimajournalistik – sprogligt har man simpelthen valgt at tilsætte journalistikken nogle religiøse og normative elementer.
+
+![Dok-collage - Berlingskes nyhedsartikel om havvarme]({{ '/assets/figures/berlingske-graf-3.jpg' | relative_url }})
 
 *Figur 3: Dok-collage - Berlingskes nyhedsartikel om havvarme*
 
