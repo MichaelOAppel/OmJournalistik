@@ -22,6 +22,9 @@
     <a href="{{ '/karakterskala/' | relative_url }}">Karakterskala</a>
     <a href="{{ '/om/' | relative_url }}">Om</a>
   </nav>
+  {% if page.collection == "posts" %}
+  <h1>{{ page.title }}</h1>
+  {% endif %}
   {{ content }}
 </body>
 </html>
