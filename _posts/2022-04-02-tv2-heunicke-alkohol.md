@@ -21,6 +21,8 @@ Men i de her to historier fra TV2 udsættes sundhedsministeren faktisk for nysge
 
 “Oversvømmet” er på god politiker-maner både effektfuld og upræcis, men med de tal og vurderinger TV2 har fundet frem til, så er den ædruelige vurdering nok, at “oversvømmet” er en stor overdrivelse. Virkeligheden er en anden.
 
+![Collage med eksempler fra de 2 artikler]({{ '/assets/figures/tv2-heunicke-1.jpg' | relative_url }})
+
 *Figur: Collage med eksempler fra de 2 artikler.*
 
 TV2 beskriver virkeligheden på to måder. Dels ved at indsamle og præsentere nogle tal. Dels ved at spørge læger, der arbejder på akutmodtagelser. Det er smukt med to uafhængige kilder. Fin metode.
@@ -48,6 +50,8 @@ Mit gæt er, at ministeren lod sig rive med af argumentationen, sådan som de fl
 Historien blev kendt især fra TV2 Nyheder (nyheder.tv2.dk). Begravet i artiklen – eller i hvert fald ikke overdrevent tydeligt – kunne man se en henvisning til TV2 Fyn, der havde talt med Odense Universitetshospital.
 
 Det var, så vidt jeg kan regne ud, TV2 Fyn, der dagen før, og dermed først, havde fået den gode idé at sammenligne ministerens udsagn med virkeligheden.
+
+![Diskret henvisning til Fyn]({{ '/assets/figures/tv2-heunicke-2.jpg' | relative_url }})
 
 *Figur: Diskret henvisning til Fyn*
 
