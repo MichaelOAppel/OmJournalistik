@@ -7,7 +7,6 @@ artikel_dato: 2023-07-05
 anmeldt: 2023-07-15
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Det meste, der kan gå galt, går galt i dette stykke Berlingske-journalistik.
