@@ -18,6 +18,8 @@ Interview-stilen i Lippert er kendetegnet ved, at kanalen lægger stor vægt på
 
 Kurkov giver et nuanceret billede af Zelenskyj. Havde værten spurgt mere ind til emnet, kunne man formentlig være blevet en del klogere. Kurkov udtrykker stor respekt for Zelenskyjs rolle i dag. Men man aner, at han ikke havde lige så stor respekt for Zelenskys præstationer fra før krigen. Det kunne det have været interessant at høre mere om.
 
+![Collage TV2 interview med Kurkov]({{ '/assets/figures/tv2-lippert-1.jpg' | relative_url }})
+
 *Figur: Collage TV2 interview med Kurkov og coveret på hans bog Grå Bier om biavleren Sergejs liv i Donbas*
 
 Forfatteren slår igennem som den fornuftige og reflekterende, som fx når han udtrykker, at Ukraine ikke var klar til medlemskab af vestlige alliancer tidligere. Og han anerkender den aktuelle støtte.
