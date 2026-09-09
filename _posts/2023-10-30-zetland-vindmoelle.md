@@ -7,7 +7,7 @@ artikel_dato: 2023-10-05
 anmeldt: 2023-10-30
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
+
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Spændende journalistik fra Zetland, der oplyser læserne om, hvordan et privat firma, Copenhagen Infrastructure Partners (CIP), opnåede positiv særbehandling fra Lars Løkke Rasmussen (LLR). Zetlands historie giver indblik i motiverne bag politiske beslutninger og politisk styring af økonomien. Det er kendt, at offentligt finansierede og/eller stærkt regulerede sektorer indebærer muligheder for at opnå særfordele. Og det er en vigtig journalistisk opgave at afdække sådanne tilfælde af *rent-seeking* og *capture*.
