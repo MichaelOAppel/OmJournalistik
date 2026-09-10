@@ -7,7 +7,7 @@ artikel_dato: 2021-12-04
 anmeldt: 2021-12-21
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }} — kommentar af Jørn Mikkelsen  
+kommentar af Jørn Mikkelsen  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 I kommentar-genren er det, ligesom i almindelig nyhedsjournalistik, et krav, at faktuelle oplysninger er korrekte. Til forskel fra nyhedsjournalistik er det i kommentaren ok med holdninger, og sågar bias og perfiditeter kan gå an, selvom de sjældent styrker kommentarens kvalitet.
@@ -20,11 +20,15 @@ Så: Man kan få indsigt ved Tøger Seidenfadens *opiniostik*. Og man kan også 
 
 Den nøgterne journalistik er under pres. Den tilgang nyder tilsyneladende ikke stor prestige. Og det gør, at Jørn Mikkelsen – som jeg ikke kender personligt – er lidt af en helt for mig, for han har stået som garant og advokat for den nøgterne journalistik. Det har han gjort som chefredaktør på Jyllands-Posten, og det gør han fortsat i debatten.
 
+![Collage med eksempler fra Jørn Mikkelsens kommentar]({{ '/assets/figures/jp-mikkelsen-1.jpg' | relative_url }})
+
 *Figur: Collage med eksempler fra Jørn Mikkelsens kommentar*
 
 Som i denne kommentar – “Når medier ikke har nok i bare at beskrive virkeligheden” – om en tysk redaktør, Hanns Joachim Friedrichs, der gennem en årrække havde vagten på ARD’s store nyhedsudsendelse, Tagesschau. Friedrichs havde som mantra, oplyser Jørn Mikkelsen, at “En dygtig journalist kendes på, at hun aldrig gør sig til ét med en sag – end ikke den bedste sag.” Det er det mantra Jørn Mikkelsen tilslutter sig.
 
 Jeg kendte ikke mantraet, og jeg vidste heller ikke, at Friedrichs var kendt for det. Og jeg vidste heller ikke, at der blev uddelt en journalistisk pris i Friedrichs’ navn.
+
+![Udsnit af hjemmeside for Hanns Joachim Friedrichs Preis]({{ '/assets/figures/jp-mikkelsen-2.jpg' | relative_url }})
 
 *Figur: Udsnit af hjemmeside for Hanns Joachim Friedrichs Preis.*
 
@@ -60,6 +64,17 @@ Og da fejlen blev påpeget, skulle man have erkendt og rettet fejlen. Det gjorde
 
 JP ændrede senere overskriften på artiklen. Den originale artikel blev tilsyneladende også ændret i brødteksten kort efter publicering, idet man tilføjede nogle relevante oplysninger om, at de omkring 20.000 kunne referere til en strøm af migranter gennem hele året og ikke en aktuel beholdning ved grænsen. Den rettelse blev blot skrevet ind i artiklen og aldrig anført som en rettelse for læserne, så ‘gamle’ læsere blev ikke hjulpet med mindre de læste hele artiklen endnu engang. Tilføjelsen var en forbedring, og gjorde artiklen mindre vildledende for læsere, der er vant til at læse forsikringspolicer, men ændrede ikke grundlæggende ved artiklens i øvrigt misvisende beskrivelse af virkeligheden.
 
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jp-mikkelsen-3a.jpg' | relative_url }}" alt="JP-artikel 7.11.18">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jp-mikkelsen-3b.jpg' | relative_url }}" alt="Nybroes svar">
+    </td>
+  </tr>
+</table>
+
 *Figur: Uddrag fra artiklen fra 7.11.18. Overskriften blev 20.12.18 ændret til “Medie: Østrig …”. Til højre uddrag af JP’s chefredaktør Jacob Nybroes svar på en kritik.*
 
 ## Eksempel 3: Alternative sager, alternative fakta
@@ -67,6 +82,17 @@ JP ændrede senere overskriften på artiklen. Den originale artikel blev tilsyne
 JP’s artikel blev genstand for en del berettiget kritik. Derimod blev det overset, at også andre medier, herunder Berlingske Tidende (“Migranter i tusindvis fanget ved grænsen til EU. Og nu kommer vinteren”, 16.12.18) i form af en artikel fra samarbejdspartneren selveste New York Times (“As Winter Arrives, Thousands of Migrants Are Trapped in Bosnia”, 8.12.18), bragte historien om en ophobning af migranter ved grænsen til Kroatien. Faktisk var det samme virkelighed, som JP på den ene side og Berlingske/NYT på den anden, foregav at beskrive. Men vinklingen var temmelig forskellig.
 
 Hvor der i JP blev vinklet på de mange potentielt farlige migranter, så var vinklingen i Berlingske/NYT præget af empati med migranter. Og vedrørende antallet så kunne læseren af Berlingske godt forledes til at tro, at der var omkring 20.000 ved grænsen. Berlingske oplyser således læseren: “Bosnien har i år registreret flere end 23.000 flygtninge og migranter, hvoraf mange er yngre mænd fra Pakistan og Afghanistan. Nu er de strandet ved grænsen til Kroatien [..]”.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jp-mikkelsen-4a.jpg' | relative_url }}" alt="Berlingske om migranter">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jp-mikkelsen-4b.png' | relative_url }}" alt="NYT om migranter">
+    </td>
+  </tr>
+</table>
 
 *Figur: Uddrag fra Berlingske Tidende, 16.12.18, artikel fra New York Times, om migranter.*
 
