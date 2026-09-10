@@ -7,7 +7,7 @@ artikel_dato: 2020-03-28
 anmeldt: 2022-03-02
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
+
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Det var en tragisk hændelse. Men – journalistisk set – en god historie Berlingske Tidende bragte i starten af pandemien. Sensationel med død og pine, gode mod onde, klare politiske implikationer. Budskabet var, at man i det forfærdelige USA med forfærdelige private hospitaler og sundhedsforsikringer ikke får noget langt liv. Journalistik, der spiller på stereotype opfattelser af USA og private løsninger, har et solidt publikum i Danmark. Også blandt Berlingskes, formoder jeg, konservative læsere.
