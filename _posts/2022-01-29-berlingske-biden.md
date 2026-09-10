@@ -7,7 +7,6 @@ artikel_dato: 2022-01-28
 anmeldt: 2022-01-29
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Læsere får nyttig information i denne artikel om Bidens mulighed for at udpege en ny højesteretsdommer, men der er også nogle bemærkelsesværdige mangler. På trods af at baggrunden for Bidens ønske om at indsætte en afroamerikansk kvinde som højesteretsdommer er særdeles veldokumenteret – og meget interessant – så oplyser Berlingske ikke læserne om den del af historien.
@@ -29,6 +28,8 @@ Hvorfor udelade denne *quid pro quo*-aftale? Ville Berlingske have forskånet l�
 Det er også mærkeligt, at Berlingske undlader at oplyse læserne, at James Clyburn i et interview i Fox News, dagen før Berlingske offentliggjorde sin artikel, fortalte, at han havde fået positive tilbagemeldinger fra to Republikanske senatorer vedrørende Clyburns egen kandidat, J. Michelle Childs. Det kan naturligvis være salgssnak, men det er ikke desto mindre relevant i en vurdering af kandidatens chance.
 
 Er der noget moralsk kritisabelt i den handel, Clyburn fik i stand? Ikke i min bog. Politik består i vid udstrækning af den slags handler, og Clyburn er en dygtig politiker. Men vigtigere: Pointen vedrører ikke, om den konkrete handel fortjener moralsk ros eller ris – pointen er, at den er relevant at kende til. Blandt andet for at kunne vurdere forskellige kandidaters sandsynlighed for at blive nomineret af Biden.
+
+![Collage om Bidens valg af højesteretsdommer]({{ '/assets/figures/berlingske-biden-1.jpg' | relative_url }})
 
 *Figur: Collage med Berlingske overskrift, bud på Bidens valg af ny højesteretsdommer og prisværdig ærlighed om, at man ikke var i stand til at skaffe et billede af Michelle Childs.*
 
