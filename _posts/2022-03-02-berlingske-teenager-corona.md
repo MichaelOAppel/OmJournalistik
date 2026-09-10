@@ -20,6 +20,8 @@ Og her melder sig et lille problem. Historien var ikke sand. Der var ingen teena
 
 Så egentlig var det ikke god journalistik. I hvert fald ikke for nysgerrige og sandhedssøgende læsere. De blev efterladt dummere.
 
+![Collage med teksteksempler fra artiklen i Berlingske Tidende]({{ '/assets/figures/berlingske-teenager-1.jpg' | relative_url }})
+
 *Figur: Collage med teksteksempler fra artiklen i Berlingske Tidende*
 
 Jeg undrede mig over historien, da jeg læste den. Det normale ville være, at personer med behov for akut behandling for en livstruende sygdom behandles uanset forsikringsstatus. Så historien bad om at blive tjekket.
@@ -29,6 +31,8 @@ Dertil kom, at Berlingske baserer historien på en enkelt kilde – ovenikøbet 
 Det viste sig umuligt at finde dokumentation for det påståede forløb. Politikeren måtte gå til bekendelse – uden at undskylde, man er vel politiker – men dog med eksplicit oplysning om og indrømmelse af, at virkeligheden var en anden, end den han havde påstået. Der var i virkeligheden ikke tale om, at teenageren var blevet afvist. Og der var i virkeligheden ikke tale om en manglende sygeforsikring.
 
 Efterfølgende faktatjek udført af medier, der politisk formentlig deler verdensopfattelse med den gennemsnitlige Berlingske-journalist, fastslog også, at beskrivelsen var i strid med virkeligheden.
+
+![Uddrag fra Parris, Time og Snopes]({{ '/assets/figures/berlingske-teenager-2.jpg' | relative_url }})
 
 *Figur: Collage med uddrag fra politiker Parris' opdatering på Facebook (30.3.20) samt uddrag fra faktatjek af Time (2.4.20) og Snopes (3.4.20)*
 
@@ -41,6 +45,8 @@ Men vi har alle været der. Forelsket os i en udlægning af virkeligheden. En ud
 Vælger man i stedet at undlade at rette og indrømme fejlen, så *er* det dumpet. I det her eksempel er der ingen tvivl. På trods af at Berlingske tidligt og gentagne gange blev gjort opmærksom på fejlen, så valgte de at lade være med at rette den.
 
 Når et medie undlader at rette en væsentlig fejl, så begynder omverdenen med god grund at kunne overveje, om mediets fejl skal kategoriseres som en bevidst fejl. Og med bevidst opretholdelse af misinformation bevæger mediet sig i retning af disinformation og fake news.
+
+![Rollemodel om rollemodel]({{ '/assets/figures/berlingske-teenager-3.jpg' | relative_url }})
 
 *Figur: Rollemodel om rollemodel.*
 
