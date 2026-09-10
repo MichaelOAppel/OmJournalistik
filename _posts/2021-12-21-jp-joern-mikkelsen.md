@@ -7,7 +7,6 @@ artikel_dato: 2021-12-04
 anmeldt: 2021-12-21
 ---
 
-kommentar af Jørn Mikkelsen  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 I kommentar-genren er det, ligesom i almindelig nyhedsjournalistik, et krav, at faktuelle oplysninger er korrekte. Til forskel fra nyhedsjournalistik er det i kommentaren ok med holdninger, og sågar bias og perfiditeter kan gå an, selvom de sjældent styrker kommentarens kvalitet.
