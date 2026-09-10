@@ -7,14 +7,15 @@ artikel_dato: 2022-02-11
 anmeldt: 2022-02-12
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 TV2 News’ interview med Atlantsammenslutningens generalsekretær Lars B. Struwe har nogle væsentlige journalistiske mangler.
 
 For det første deklareres Tænketanken/interesseorganisationen ikke. For det andet får talsmanden kun softball spørgsmål. Og for det tredje lader man generalsekretæren anvende en usaglig argumentation – uden at mediet følger op med kritiske spørgsmål.
 
-*Figur: RT's journalistiske metode on my mind*
+![Collage med teksteksempler fra artiklen i Berlingske Tidende]({{ '/assets/figures/berlingske-teenager-1.jpg' | relative_url }})
+
+*Figur: Collage med teksteksempler fra artiklen i Berlingske Tidende*
 
 ## Manglende deklarering
 
