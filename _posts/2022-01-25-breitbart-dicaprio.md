@@ -7,7 +7,6 @@ artikel_dato: 2022-01-18
 anmeldt: 2022-01-25
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Breitbart er et amerikansk netmedie, der publicerer holdningsbaseret journalistik. Holdningerne afspejler et mix af populisme, konservatisme og libertarianisme. Det er, for nogle emner, en umage *threesome* – det er fx svært at forene populisme og lukkede grænser på den ene side og libertarianisme og åbne grænser på den anden – men der er fælles opfattelser, og hvor de er uforenelige foretrækker redaktionen for tiden tilsyneladende en populisme lidt a la Trump.
@@ -18,9 +17,13 @@ Breitbart deklarerer tydeligt, at deres journalistik er holdningsdrevet. Så vid
 
 Det forsøger Breitbart ikke desto mindre i denne artikel. Mediet er engagerede modstandere af klimapolitiske tiltag og agiterer imod personer og organisationer, der plæderer for sådanne tiltag. I den her artikel leder det til en påstand om, at det ikke er USA, der er verdens største per capita-udleder, men Kina! Håbet er, formodentlig, at man dermed kan imødegå argumenter for et mere ambitiøst amerikansk reduktionsmål.
 
+![Collage med uddrag fra Breitbart-artikel]({{ '/assets/figures/breitbart-1.jpg' | relative_url }})
+
 *Figur: Collage med uddrag fra Breitbart-artikel*
 
 Hvordan kommer Breitbart på den idé, at Kina er den største udleder per capita? Forklaringen er en cocktail af for stort politisk engagement, for ringe faglighed, bekræftelses-bias og en for kæk læsning af et opslag i Worldometers, hvor Breitbart overser, at tabellen er sorteret efter absolut udledning og *ikke* efter udledning per capita. Ups. Godt nok er Worldometers side ikke brugervenlig, men det er ikke en god undskyldning for fejllæsningen.
+
+![Uddrag fra Worldometer]({{ '/assets/figures/breitbart-2.jpg' | relative_url }})
 
 *Figur: Uddrag fra Worldometer brugt og fejlfortolket af Breitbart*
 
@@ -28,9 +31,18 @@ Sådan en fejl giver røde ører, og hvordan kommer man så videre? Man erkender
 
 Det siger meget om et medie, hvordan man håndterer fejlagtig information til læseren. I DK er det en kamp at få medierne til at rette fejl og tydeligt markere dem. Breitbart er i dette tilfælde ikke helt så slem, men har dog tilsyneladende gået et par semestre i samme skole. For godt nok blev fejlen rettet dagen efter (fint), og godt nok omtaler man det som en “rettelse” (også fint), men så griber man til “opdaterings”-tricket. Ændringen omtales som en “opdatering”. Men der er ikke sket en udvikling, hvor der er kommet ny information på bordet. Den sande information var til rådighed allerede, da artiklen blev skrevet. Så det burde være “rettet”. Og så er det god stil at beklage, at man har begået en fejl og givet læserne forkert information.
 
-*Figur: Ny tekst*
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/breitbart-3a.jpg' | relative_url }}" alt="Ny tekst">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/breitbart-3b.jpg' | relative_url }}" alt="Rettelse og opdatering">
+    </td>
+  </tr>
+</table>
 
-*Figur: Rettelse og opdatering – korrekt havde været “CORRECTION” og “corrected”*
+*Figur: Ny tekst. Rettelse og opdatering – korrekt havde været “CORRECTION” og “corrected”.*
 
 Det er rent held, at overskriften på historien faktisk indeholder en sand oplysning: USA er, sandt nok, ikke den største udleder per capita. Men ikke fordi Kina, som oplyst, udleder mest af alle per capita. Fordi Canada, Australien og nogle oliestater udleder mere. USA er omkring den 15. største udleder.
 
@@ -39,6 +51,17 @@ Ser man på fx Carbon Briefs forsøg på at opgøre de historisk akkumulerede ud
 Artiklen indeholder også nogle kritiske/perfide bemærkninger vedrørende skuespillerens eget klimaaftryk og en eventuel dobbeltmoral. Alt efter smag og sammenhæng er det relevant, underholdende eller irrelevant, men da der er tale om deklareret holdningsjournalistik, så er det ikke at snyde læseren.
 
 Det er i øvrigt ikke ualmindeligt med den slags personangreb i klimajournalistikken, der er lidt af en legeplads for journalister med stort politisk engagement. Berlingske Tidende brugte i historien “Faktatjek af Lomborg: Det er simpelthen useriøst” (29.11.18) samme metode – eneste forskel er, at de to mediers journalister hører hjemme i hver sin politiske lejr. Og så er der også den forskel, at Berlingske undlader at deklarere artiklen som holdningsjournalistik.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/breitbart-4a.jpg' | relative_url }}" alt="Berlingske-uddrag">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/breitbart-4b.jpg' | relative_url }}" alt="Berlingske-uddrag">
+    </td>
+  </tr>
+</table>
 
 *Figur: Uddrag af Berlingske-artikel*
 
