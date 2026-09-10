@@ -2,7 +2,7 @@
 layout: default
 title: "Når medier ikke har nok i bare at beskrive virkeligheden"
 karakter: 10
-medie: Jyllands-Posten
+medie: medie: Jyllands-Posten – kommentar af Jørn Mikkelsen
 artikel_dato: 2021-12-04
 anmeldt: 2021-12-21
 ---
