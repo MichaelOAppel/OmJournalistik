@@ -58,4 +58,35 @@ Så point for frækhed. Men bundkarakter for journalistisk kvalitet.
 
 Her kunne anmeldelsen være endt, og det var også meningen, men omkring tre uger efter fejlen begyndte der at ske noget. Hvis man meget insisterende spørger Ritzau og de øvrige medier om dokumentationen for deres historier, kan det ske, at de svarer. Det kan endda ske, at de erkender en eventuel fejl. Og, for Ritzaus vedkommende, at de orienterer deres kunder. I praksis sker håndteringen derefter lidt forskelligt på tværs af medier, men i alle tilfælde har mediet selv ansvaret for om, og hvordan rettelsen bringes. Om man overhovedet oplyser læseren om fejlen. Om man gør det transparent.
 
-At gøre det transparent er et plus. Men det er stadig et minus, at fejlen overhovedet sker. Og det er et stort minus, at det tager tid. Og det er et endnu større minus, hvis man ikke retter overhovedet.
+I det her tilfælde gav det anledning til nogle absurde håndteringer. I Berlingske valgte man at opretholde den første historie og undlade at oplyse læserne om fejlinformationen. Men man bragte også en rettet version med ny datering. For at gøre komikken total indeholdt den nye version fortsat en fejl. Så samlet en håndtering, hvor læseren ikke oplyses om fejl i originale artikel, og hvor den nye version fortsat indeholder fejl. TV2 Nyhederne valgte samme vildledende håndtering som Berlingske. Jyllands-Posten og Politiken havde efter 3 uger fortsat kun den fejlbehæftede artikel på fladen. Kristeligt Dagblad havde en korrekt rettet version, inklusive at Reuters ikke var medkilde, men undlod at oplyse læserne om, at der var foretaget rettelser. Det samme for EB.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/ritzau-2a.jpg' | relative_url }}" alt="Ritzau figur 2a">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/ritzau-2b.jpg' | relative_url }}" alt="Ritzau figur 2b">
+    </td>
+  </tr>
+</table>
+
+*Figur 2:*
+
+Et medie var – meget sent og over et par omgange – i stand til både at rette korrekt og tydeligt oplyse læserne om fejlen i den originale artikel. Det var, ikke overraskende, DR Nyheder.
+
+![Ritzau figur 3]({{ '/assets/figures/ritzau-3.jpg' | relative_url }})
+
+*Figur 3:*
+
+Det er langt fra altid, at DR Nyheder erkender og transparent orienterer brugerne om fejl. Men det sker lejlighedsvist, og altså også i dette tilfælde. Med den beskedne præstation markerer DR sig som bedst i klassen. Det er selvfølgelig dumpet, at der i første omgang bringes faktuelt forkerte oplysninger, og det er ikke godt, at der går flere uger, før man retter. Men da den endelige rettelse endelig kom, blev læseren tydeligt oplyst om fejlen. Den her gang.
+
+## Gratis råd
+
+Hvis man begår fejl – så erkend fejlen. Ret den. Ret den tydeligt. Tydeligt betyder: Øverst i teksten, ovenover rubrikken. Overvej procedurer for at undgå gentagelser med dumme fejl.
+
+Hvis fejloplysning hænger sammen med bias eller trang til politisering, så overvej enten efteruddannelse eller ny deklarering af avisens metode.
+
+Følger man dette råd, så opnår medierne et bedre produkt, og vinder i troværdighed.
+
+Vil det ske? Nej.
