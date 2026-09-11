@@ -25,7 +25,16 @@ Personangreb er et simpelt og effektivt virkemiddel til at overbevise andre om, 
 
 Der tales for tiden meget om den hårde tone på de sociale medier, hvor personangreb og usagligheder florerer. Etablerede medier fremhæver gerne sig selv som et alternativ til den skraldespand. Berlingskes artikel rejser imidlertid spørgsmålet, om ikke etablerede medier kan være en del af problemet.
 
-![Eksempler fra Berlingske Tidendes artikel]({{ '/assets/figures/kurz-1.jpg' | relative_url }})
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/Kurz-1a.png' | relative_url }}" alt="Eksempler fra Berlingske Tidendes artikel">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/Kurz-1b.png' | relative_url }}" alt="Eksempler fra Berlingske Tidendes artikel">
+    </td>
+  </tr>
+</table>
 
 *Figur: Eksempler fra Berlingske Tidendes artikel.*
 
@@ -40,10 +49,10 @@ JP’s artikel havde været endnu bedre, hvis den havde oplyst læseren om arvta
 <table style="width:100%;border-collapse:collapse;">
   <tr>
     <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
-      <img src="{{ '/assets/figures/kurz-2a.jpg' | relative_url }}" alt="Eksempler fra Jyllands-Postens artikel">
+      <img src="{{ '/assets/figures/Kurz-2a.png' | relative_url }}" alt="Eksempler fra Jyllands-Postens artikel">
     </td>
     <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
-      <img src="{{ '/assets/figures/kurz-2b.jpg' | relative_url }}" alt="Eksempler fra Jyllands-Postens artikel">
+      <img src="{{ '/assets/figures/Kurz-2b.png' | relative_url }}" alt="Eksempler fra Jyllands-Postens artikel">
     </td>
   </tr>
 </table>
@@ -62,16 +71,7 @@ Men er der ikke en anden god grund til at smøre ekstra på i tilfældet Kurz? H
 
 Tjah, det kan man have mange filosofiske diskussioner om, men det korte af det lange er, at det i et læserperspektiv ikke er ok, at medier bruger en falsk varebetegnelse. Så hvis Berlingske Tidende deklarerer en tekst som nyhedsjournalistik, og sin nyhedsjournalistik som fair og saglig, så skal journalistikken være fair og saglig. Længere er den ikke.
 
-<table style="width:100%;border-collapse:collapse;">
-  <tr>
-    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
-      <img src="{{ '/assets/figures/kurz-3a.jpg' | relative_url }}" alt="Berlingskes kvalitetsdeklaration">
-    </td>
-    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
-      <img src="{{ '/assets/figures/kurz-3b.jpg' | relative_url }}" alt="Berlingskes kvalitetsdeklaration">
-    </td>
-  </tr>
-</table>
+![Uddrag fra Berlingske Tidendes kvalitetsdeklaration]({{ '/assets/figures/Kurz-3.jpg' | relative_url }})
 
 *Figur: Uddrag fra Berlingske Tidendes kvalitetsdeklaration*
 
