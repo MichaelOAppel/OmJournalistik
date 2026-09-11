@@ -7,7 +7,7 @@ artikel_dato: 2021-10-10
 anmeldt: 2021-12-22
 ---
 
-Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
+Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 **[00]** Berlingske Tidende: “Han var et vandkæmmet vidunderbarn. Nu har en fem år gammel, dybt ulovlig hemmelighed væltet ham” (10.10.21).
 
@@ -25,6 +25,8 @@ Personangreb er et simpelt og effektivt virkemiddel til at overbevise andre om, 
 
 Der tales for tiden meget om den hårde tone på de sociale medier, hvor personangreb og usagligheder florerer. Etablerede medier fremhæver gerne sig selv som et alternativ til den skraldespand. Berlingskes artikel rejser imidlertid spørgsmålet, om ikke etablerede medier kan være en del af problemet.
 
+![Eksempler fra Berlingske Tidendes artikel]({{ '/assets/figures/kurz-1.jpg' | relative_url }})
+
 *Figur: Eksempler fra Berlingske Tidendes artikel.*
 
 Jyllands-Postens artikel er, i modsætning til Berlingskes, fair og oplysende. Den baserer sig på fakta og afholder sig fra personangreb. Det fremgår klart, hvad Kurz muligvis har gjort sig skyldig i: “Helt præcist lyder anklagen, at de er mistænkt for at bruge offentlige midler fra det østrigske finansministerium i perioden 2016-2018 til »at finansiere delvist manipulerede meningsmålinger, der udelukkende tjente partipolitiske interesser«.” Så ikke noget mystisk med at Kurz har gjort sig skyldig i en “ulovlig hemmelighed” – han har, sådan lyder anklagen, misbrugt offentlige midler.
@@ -34,6 +36,17 @@ Det fremgår også klart, at der på nuværende tidspunkt er tale om en anklage,
 Og så sætter JP historien ind i et relevant dansk perspektiv med henvisning til, at Kurz var allieret med den danske regering i den såkaldte sparebande i EU. Det perspektiv har Berlingske slet ikke øje for.
 
 JP’s artikel havde været endnu bedre, hvis den havde oplyst læseren om arvtagerens, udenrigsminister Alexander Schallenbergs, holdninger, og hvad man kunne forvente af ham. Det havde også været bedre, hvis JP tydeligt havde oplyst læserne om, hvilke dele af teksten man havde fra Deutsche Welle – det tyske medie der, i den delvise citathistorie, trækkes en del på.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/kurz-2a.jpg' | relative_url }}" alt="Eksempler fra Jyllands-Postens artikel">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/kurz-2b.jpg' | relative_url }}" alt="Eksempler fra Jyllands-Postens artikel">
+    </td>
+  </tr>
+</table>
 
 *Figur: Eksempler fra Jyllands-Postens artikel.*
 
@@ -48,6 +61,17 @@ JP’s læsere får for øvrigt, et andet sted i avisen, serveret en artikel med
 Men er der ikke en anden god grund til at smøre ekstra på i tilfældet Kurz? Hånden på hjertet, minder Kurz så ikke om Trump eller Pia Kjærsgaard eller sider af Mette Frederiksen? Og er der ikke grund til at hjælpe læserne til en korrekt forståelse af den slags personer/politikker? Og hvis overdrivelse fremmer forståelsen, er det så ikke ligefrem en pligt at bruge det tunge skyts?
 
 Tjah, det kan man have mange filosofiske diskussioner om, men det korte af det lange er, at det i et læserperspektiv ikke er ok, at medier bruger en falsk varebetegnelse. Så hvis Berlingske Tidende deklarerer en tekst som nyhedsjournalistik, og sin nyhedsjournalistik som fair og saglig, så skal journalistikken være fair og saglig. Længere er den ikke.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/kurz-3a.jpg' | relative_url }}" alt="Berlingskes kvalitetsdeklaration">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/kurz-3b.jpg' | relative_url }}" alt="Berlingskes kvalitetsdeklaration">
+    </td>
+  </tr>
+</table>
 
 *Figur: Uddrag fra Berlingske Tidendes kvalitetsdeklaration*
 
