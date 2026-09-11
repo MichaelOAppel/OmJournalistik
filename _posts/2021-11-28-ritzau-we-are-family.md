@@ -7,7 +7,6 @@ artikel_dato: 2021-10-31
 anmeldt: 2021-11-28
 ---
 
-**[{{ page.karakter }}]** {{ page.medie }}  
 Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 Bundkarakterer til Ritzau, TV2 Nyhederne, DR, Jyllands-Posten, Berlingske Tidende, Politiken, BT, Kristeligt Dagblad og Ekstra Bladet for deres håndtering af fejl på udenrigsstoffet. Sådan har det været i lang tid, og sådan er det også for denne historie. DR er ikke helt så ringe som de andre, men også DR har en utilfredsstillende praksis og procedure.
@@ -21,6 +20,8 @@ Problemet med historien er, at det er faktuelt forkert, at TMZ havde talt med Ba
 Virkeligheden er, at TMZ havde en historie, hvori mediet omtaler en episode, hvor en “sværm” af såkaldte paparazzier i bil havde “jagtet” familien Baldwin, som til sidst trak ind til side og tilbød at besvare nogle spørgsmål i håb om fred for paparazzierne. Der var ikke tale om et interview eller en journalistisk samtale med TMZ. Det påstår TMZ da heller ikke. De danske mediers fortælling er fri fantasi. Noget man kan skrive for at gøre historien bedre eller for at skjule det etisk problematiske i, at man anvender en historie baseret på paparazzier. Uanset motiv, så er det et problem, at der oplyses noget faktuelt forkert.
 
 Under paparazzi-reporternes spørgsmål til Baldwin udtaler han *ikke*, at den afdøde var som familie. Baldwin beskriver, forståeligt i lys af kritikken og muligvis ganske korrekt, at den afdøde var en “ven”, og dermed appellerer han til vores medfølelse og forståelse. Rent kommunikativt havde det måske været smartere at geare op og kalde den afdøde “familie”. Men det gjorde han ikke. De nævnte danske medier er imidlertid villige til at geare op. Som ovenfor så er motivet formentlig, at det gør historien bedre. Gætter jeg. Igen: Uanset motiv, så er det et problem, at man fortæller læserne noget faktuelt forkert.
+
+![Familie-collage]({{ '/assets/figures/ritzau-1.jpg' | relative_url }})
 
 *Figur 1: Familie-collage.*
 
@@ -37,7 +38,7 @@ Men hvis man praktiserer den form for fantasifuld journalistik, så bør mediern
 Det bedste forsvar, der i dette tilfælde kan gives for mediernes håndtering, er nok, at det er ret ligegyldigt, hvad den amerikanske skuespiller måtte have sagt. I hvert fald sammenlignet med væsentlige historier, der ikke blev bragt i de dage. Men hvis redaktøren finder det værd at bruge ressourcer på en historie, så skulle vedkommende også gerne finde det værd at fortælle historien rigtigt. At fortælle det, som det er.
 
 | Medie | Rettede fejl og oplyste læserne om rettelse indenfor 2 uger? |
-| --- | --- |
+| --- | :---: |
 | Ritzau | Nej |
 | DR Nyhederne | Nej |
 | TV2 Nyhederne | Nej |
