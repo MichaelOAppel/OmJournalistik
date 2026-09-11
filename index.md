@@ -5,7 +5,7 @@ title: Forside
 
 # Om Journalistik
 
-– anmeldelser af journalistik –
+<p class="undertitel">– anmeldelser af journalistik –</p>
 
 ## Seneste anmeldelser
 
