@@ -71,15 +71,11 @@ I det her tilfælde gav det anledning til nogle absurde håndteringer. I Berling
   </tr>
 </table>
 
-*Figur 2:*
-
 Et medie var – meget sent og over et par omgange – i stand til både at rette korrekt og tydeligt oplyse læserne om fejlen i den originale artikel. Det var, ikke overraskende, DR Nyheder.
 
-![Ritzau figur 3]({{ '/assets/figures/ritzau-3.jpg' | relative_url }})
-
-*Figur 3:*
-
 Det er langt fra altid, at DR Nyheder erkender og transparent orienterer brugerne om fejl. Men det sker lejlighedsvist, og altså også i dette tilfælde. Med den beskedne præstation markerer DR sig som bedst i klassen. Det er selvfølgelig dumpet, at der i første omgang bringes faktuelt forkerte oplysninger, og det er ikke godt, at der går flere uger, før man retter. Men da den endelige rettelse endelig kom, blev læseren tydeligt oplyst om fejlen. Den her gang.
+
+![Ritzau figur 3]({{ '/assets/figures/ritzau-3.jpg' | relative_url }})
 
 ## Gratis råd
 
