@@ -6,6 +6,20 @@ permalink: /jargon/
 
 # Jargon
 
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:33%;padding:0 0.3em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-indledning-1a.jpg' | relative_url }}" alt="Indledning">
+    </td>
+    <td style="width:33%;padding:0 0.3em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-indledning-1b.jpg' | relative_url }}" alt="Indledning">
+    </td>
+    <td style="width:33%;padding:0 0.3em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-indledning-1c.jpg' | relative_url }}" alt="Indledning">
+    </td>
+  </tr>
+</table>
+
 ## Analyse
 
 Den journalistiske ambition om ikke alene at beskrive, hvad der sker, men også redegøre for årsagssammenhænge og eventuelt komme med forudsigelser. Det er en prisværdig ambition men også en udfordrende genre, som nogle gange misforstås som et adgangskort til at skrive en kommentar. Det kan ske i form af en eksplicit holdningstilkendegivelse. Men det kan også, mere subtilt, ske i form af valget af årsagsforklaring.
@@ -17,6 +31,20 @@ Man kan overveje, om det overhovedet er rimeligt at sætte en journalist til at 
 Mange medier forsømmer at definere begrebet for læserne, og, kan man have en mistanke om, for journalisterne.
 
 Den alvidende journalist bruger analysen til at vise, at han/hun kan forklare alt. Den kloge journalist er eksplicit om usikkerheder. Man kan arbejde med scenarier, eller tilsvarende, og oplyse læseren om forskellige forklaringsmuligheder. Ved at arbejde med scenarier og sandsynligheder kan journalisten undgå at binde sin fremtidige reportage af faktuelle forhold til en bestemt udlægning.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:33%;padding:0 0.3em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-analyse-1a.jpg' | relative_url }}" alt="Analyse">
+    </td>
+    <td style="width:33%;padding:0 0.3em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-analyse-1b.jpg' | relative_url }}" alt="Analyse">
+    </td>
+    <td style="width:33%;padding:0 0.3em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-analyse-1c.jpg' | relative_url }}" alt="Analyse">
+    </td>
+  </tr>
+</table>
 
 *Figur: Eksempler på analyser (uddrag fra Berlingske Tidende)*
 
@@ -52,6 +80,8 @@ Henvisningen tjener ikke alene til at signalere fællesskab med Carl Bernstein m
 
 Bob Woodward havde på daværende tidspunkt skrevet to, udmærkede, bøger om Trump. Berlingske Tidende har bevidst undladt at rette artiklen og oplyse læserne om, at man valgte at give den ekstra gas på bekostning af sandheden.
 
+![Bernstein Woodward by proxy]({{ '/assets/figures/jargon-berstein-1.png' | relative_url }})
+
 *Figur: Den for Berlingske Tidende bedst opnåelige version af sandheden*
 
 ## Bias
@@ -61,6 +91,8 @@ En partisk og skæv dækning, der afspejler en forudindtaget holdning. Den parti
 De fleste danske medier tager officielt afstand fra bias i dækningen. Det gælder eksempelvis også Berlingske Tidende, hvor virkeligheden dog er, at mange artikler åbenlyst dyrker en bias, der i ekstreme tilfælde kan vise sig ved perfiditeter rettet mod personer, hvis synspunkter man ikke bryder sig om. Den manglende opfyldelse af avisens deklarerede etik kan hænge sammen med, at redaktøren tilsyneladende har en positiv opfattelse af bias.
 
 Bias findes ikke kun hos medierne. Det findes også hos læserne. Også hos en lille men meget vokal del. En relevant og faktuel korrekt historie kan derfor få møgfald i mediernes kommentatorspor og i de sociale medier. En god ledelse beskytter journalisterne mod den skraldespand.
+
+![Bias]({{ '/assets/figures/jargon-bias-1.jpg' | relative_url }})
 
 *Figur: Indflydelsesrig redaktør om bias.*
 
@@ -74,6 +106,8 @@ Men man kan give eksempler. Det er editorializing, når journalister skriver der
 
 I eksemplet lige nedenfor er en partisoldat uenig i en journalists private tilkendegivelse af en holdning. Men en privat tilkendegivelse er ikke at smugle sin personlige holdning ind i en journalistisk reportage. Hvis journalisten i en reportage havde beklaget sig over verdenssamfundets ageren, så havde det været editorializing.
 
+![Editorialise]({{ '/assets/figures/jargon-editorialise-1.jpg' | relative_url }})
+
 *Figur: Nej, det er ikke editorialising når en journalist udtaler sig privat*
 
 ## Elements of Journalism
@@ -81,6 +115,8 @@ I eksemplet lige nedenfor er en partisoldat uenig i en journalists private tilke
 Henviser til klassikeren “The Elements of Journalism”, skrevet af Kovach og Rosenstiel. Bogen indeholder en liste – af nogle omtalt som et *manifest* – med ti bud på god journalistik.
 
 Ideen om at journalistik skal give information, så folk kan være “free and self-governing” flugter fint med Scripps-doktrinen, men ikke så meget med den danske tradition for opdragende journalistik.
+
+![Elements of Journalism]({{ '/assets/figures/jargon-elements-1.png' | relative_url }})
 
 *Figur: Uddrag fra et journalistisk manifest.*
 
@@ -93,6 +129,8 @@ En fair dækning er kendetegnet ved at være upartisk og balanceret. Den fair d�
 Bevidst vildledende historier, der præsenteres som nyhedshistorier. Til forskel fra eksempelvis en utilsigtet fejl.
 
 Woodward forsvarer, i sine samtaler med Trump, sine kolleger på WaPo mod præsidentens anklager om Fake News, og argumenterer, at i de meget få tilfælde, hvor der blev begået fejl, har man åbent erkendt og rettet fejlene. Det var “honest mistakes”. Og man rettede. Det er en god pointe. Men den løser ikke det problem, der er udbredt i Danmark, hvor fejlene typisk må antages at være ærlige, men hvor medierne undlader at rette. Spørgsmålet er, om en ærlig fejl forbliver ærlig, når man ikke vil oplyse læserne om fejlen.
+
+![Fake news]({{ '/assets/figures/jargon-fakenews-1.jpg' | relative_url }})
 
 *Figur: Collage - ærlige fejl eller fake news?*
 
@@ -127,6 +165,10 @@ Refererede oprindeligt til en intensiv dækning af et emne i en periode. Altså 
 I dagligdags sprogbrug og for mange læsere er det blevet ensbetydende med agiterende eller såkaldt aktivistisk journalistik, og bruges ofte som led i en kritik. Den almene opfattelse er efterhånden overtaget af branchen.
 
 I eksemplet til højre ironiserer Jyllands-Postens chefredaktør over Politikens journalistiske kampagne, hvor det jo lyder lidt som om, man har bundet sig til en bestemt vinkling og konklusion. JP er i øvrigt ikke selv fri for agiterende journalistik.
+
+![Kampagne-journalistik]({{ '/assets/figures/jargon-kampagne-1.jpg' | relative_url }})
+
+*Figur: Jyllands-Posten om Politikens kampagne*
 
 ## Kapitel 22
 
@@ -166,6 +208,8 @@ Det lyder bedre end “den statsejede tv- og radiostation oplyser”.
 
 Og, vigtigst, det er konkret nok til at kunne bruges som slagfærdigt argument for offentlig finansiering.
 
+![Public Service]({{ '/assets/figures/jargon-publicservice-1.jpg' | relative_url }})
+
 *Figur: Public Service som venlig vejledning til krydsets placering.*
 
 Public service-virksomhed defineres lovgivningsmæssigt ved a) nogle ønsker til kvaliteten af produktionen (fx “… sikre den danske befolkning et bredt udbud af programmer og tjenester omfattende nyhedsformidling, oplysning, undervisning, kunst og underholdning. Der skal i udbuddet tilstræbes kvalitet, alsidighed og mangfoldighed [..]. Ved informationsformidlingen skal der lægges vægt på saglighed og upartiskhed”) og b) en implicit antagelse om, at den endelige produktion udføres af offentligt ejede virksomheder.
@@ -182,6 +226,8 @@ Hvis man som journalist aspirerer til at blive mere forfatteragtig, og hvis man 
 
 Det problematiske opstår, når metoden anvendes uden varedeklarering.
 
+![Randa]({{ '/assets/figures/jargon-randa-1.jpg' | relative_url }})
+
 *Figur: Fra “Ordets makt och vanmakt - mitt skrivande liv” af J. Guillou.*
 
 ## Sagen, was ist
@@ -189,6 +235,8 @@ Det problematiske opstår, når metoden anvendes uden varedeklarering.
 „Einer Wahrheit ans Licht zu helfen, die unter der glatten Oberfläche der Volksmeinung schlummert, diese notwendige Wahrheit unangreifbar zu fassen und in 400 000 Exemplaren bis in den hintersten Winkel auf die Reise zu schicken, so daß niemand mehr sagen kann, sie sei ihm nicht zugänglich gewesen, eine Wahrheit, der die etablierten Führer und Meinungsmacher aus Bequemlichkeit und Eigensucht bislang ausgewichen sind – das ist die einzige Möglichkeit für den Journalisten, die Wirklichkeit zu verändern: Er kann sagen, was ist.“
 
 Det er selvfølgelig temmelig naivt at tro, at det egentlig er sådan, at journalister kun kan forandre virkeligheden ved at sige det, som det er. Historien vrimler med manipulerende journalister i magtens tjeneste. Rudolf Augstein må have ment det normativt. Gætter jeg.
+
+![Sagen, was ist]({{ '/assets/figures/jargon-sagen-1.jpg' | relative_url }})
 
 *Figur: En journalistisk doktrin fra Rudolf Augstein*
 
@@ -231,6 +279,17 @@ Det ironiske ved Trumps ageren, herunder angrebene på medierne, og herunder ang
 Pointen er ikke, at Trumps adfærd undskylder den journalistiske brug af overdrivelser og løgne – for det gør den selvfølgelig ikke. Pointen er, at ledelsen skal være bevidst om faren for, at de selv og de ansatte journalister falder i fælden. Forudsat, naturligvis, at ambitionen er sandfærdig journalistik. Hvis ambitionen og forretningsmodellen er at maximere antal læsere med minimal indsats, så er det muligvis en pointe i at praktisere trumpsk journalistik.
 
 Den overstregede tekst er fra 2019. Og den er fortsat sand. Trump vandt præsidentvalget i 2024. Pointerne fra den overstregede tekst holder fortsat.
+
+<table style="width:100%;border-collapse:collapse;">
+  <tr>
+    <td style="width:50%;padding-right:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-trumpsk-1a.jpg' | relative_url }}" alt="Trumpsk">
+    </td>
+    <td style="width:50%;padding-left:0.5em;vertical-align:top;border:none;">
+      <img src="{{ '/assets/figures/jargon-trumpsk-1b.png' | relative_url }}" alt="Trumpsk">
+    </td>
+  </tr>
+</table>
 
 *Figur: Berlingske uddrag ("»Det er, hvad vi taler om - et russisk kup mod Amerika«", 31.10.2017). Ifølge Berlingske har Papadopoulos erkendt sin skyld i den af avisen nævnte konspiration med Rusland.*
 
