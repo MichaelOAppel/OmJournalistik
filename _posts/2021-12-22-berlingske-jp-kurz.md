@@ -7,7 +7,7 @@ artikel_dato: 2021-10-10
 anmeldt: 2021-12-22
 ---
 
-Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
+Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 **[00]** Berlingske Tidende: “Han var et vandkæmmet vidunderbarn. Nu har en fem år gammel, dybt ulovlig hemmelighed væltet ham” (10.10.21).
 
