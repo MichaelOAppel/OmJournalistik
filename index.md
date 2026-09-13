@@ -7,7 +7,7 @@ title: Forside
 
 <p class="undertitel">– anmeldelser af journalistik –</p>
 
-![HumWolfe]({{ '/assets/figures/faste/HumWolfe.jpg' | relative_url }})
+<img class="forsidefigur" src="{{ '/assets/figures/faste/HumWolfe.jpg' | relative_url }}" alt="Om Journalistik">
 
 ## Seneste anmeldelser
 
