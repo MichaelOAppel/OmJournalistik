@@ -12,14 +12,7 @@ title: Forside
      src="{{ '/assets/figures/faste/banner_stick_march_loop.gif' | relative_url }}"
      alt="Journalist iagttager en samlet gruppe">
 
-<script>
-  setTimeout(function () {
-    var el = document.getElementById("banner");
-    if (el) {
-      el.src = "{{ '/assets/figures/faste/banner_stick_march.gif' | relative_url }}";
-    }
-  }, 24000);
-</script>
+
 
 <img class="forsidefigur" src="{{ '/assets/figures/faste/HumWolfe.jpg' | relative_url }}" alt="Om Journalistik">
 
