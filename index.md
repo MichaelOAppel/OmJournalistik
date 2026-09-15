@@ -12,10 +12,14 @@ title: Forside
      src="{{ '/assets/figures/faste/banner_stick_march_loop.gif' | relative_url }}"
      alt="Journalist iagttager en samlet gruppe">
 
+
+<img class="forsidefigur" src="{{ '/assets/figures/faste/HumWolfe.jpg' | relative_url }}" alt="Om Journalistik">
+
+
 ## Seneste anmeldelser
 
 {% for post in site.posts %}
 - **[{{ post.karakter }}]** [{{ post.medie }}: “{{ post.title }}”]({{ post.url | relative_url }}) — Anmeldt {{ post.anmeldt | date: "%d.%m.%Y" }}
 {% endfor %}
 
-<img class="forsidefigur" src="{{ '/assets/figures/faste/HumWolfe.jpg' | relative_url }}" alt="Om Journalistik">
+
