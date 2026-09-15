@@ -4,9 +4,9 @@ title: Om
 permalink: /om/
 ---
 
-# Om Journalistik
+# Om ... Om Journalistik
 
-Om Journalistik er en pop-up side, hvor du kan læse mine anmeldelser af mediernes journalistik.
+Om Journalistik er en pop-up side, hvor du kan læse mine – en almindelig læser med en almindelig læsers forudsætninger – anmeldelser af mediernes journalistik. 
 
 Michael Appel  
-Kontakt: red@omjournalistik.dk
+
