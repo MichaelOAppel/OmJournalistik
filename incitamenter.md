@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Incitamenter/Økonomi"
+title: "Økonomi"
 permalink: /incitamenter/
 ---
 
-# Incitamenter/Økonomi
+# Økonomi
 
 Tekst kommer her.
