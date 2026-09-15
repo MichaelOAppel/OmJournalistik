@@ -12,7 +12,6 @@ title: Forside
      src="{{ '/assets/figures/faste/banner_stick_march_loop.gif' | relative_url }}"
      alt="Journalist iagttager en samlet gruppe">
 
-
 ## Seneste anmeldelser
 
 {% for post in site.posts %}
