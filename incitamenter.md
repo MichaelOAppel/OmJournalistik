@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Journo-Økonomi"
+title: "J-Økonomi"
 permalink: /incitamenter/
 ---
 
-# J-Økonomi
+# Journalistikkens Økonomi & Politiske Økonomi
 
 Tekst kommer her.
