@@ -4,6 +4,6 @@ title: "Journo-Økonomi"
 permalink: /incitamenter/
 ---
 
-# Journo-Økonomi
+# J-Økonomi
 
 Tekst kommer her.
