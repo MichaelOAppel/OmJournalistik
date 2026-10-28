@@ -12,9 +12,9 @@ Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt 
 
 TV2 News bragte angiveligt dette indslag for at informere om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition. Vi ved at de økonomiske vilkår - herunder prisniveau og inflation - kan påvirke, hvem vælgere sætter deres kryds ved. 
 
-![Beskrivelse af billedet]({{ '/assets/figures/filnavn.jpg' | relative_url }})
+![Beskrivelse af billedet]({{'/assets/figures/tv2/22_10_26_Milk/IntroMilkyWay.png' | relative_url }})
 
-*Figur: Billedtekst*
+*Figur: No Honey, Expensive Milk*
 
 
 En sådan historie kan føres ud fra de officielle prisstatistikker, og det er ubetinget en god idé at have tjek på dem, men en konkretisering hører med for virkelig at gøre historien forståelig. Det er derfor fint, at TV2 tager udgangspunkt i en bestemt varepris i korrespondentens egen baghave. Korrespondenten fortæller engageret om prisen på mælk. Det er også et godt valg. Mælk er godt. Men herefter går det helt galt. 
