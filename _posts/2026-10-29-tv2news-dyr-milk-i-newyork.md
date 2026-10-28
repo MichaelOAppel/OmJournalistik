@@ -5,10 +5,10 @@ title: "Indslag om prisen på dagligvarer i USA"
 karakter: -3
 medie: TV2 News
 artikel_dato: 2026-10-22
-anmeldt: 2026-10-28
+anmeldt: 2026-11-28
 ---
 
-Artikel: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
+Indslag: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
 TV2 News bragte angiveligt dette indslag for at informere om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition. Vi ved at de økonomiske vilkår - herunder prisniveau og inflation - kan påvirke, hvem vælgere sætter deres kryds ved. 
 
