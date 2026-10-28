@@ -23,7 +23,10 @@ erfaring med s stististikekr for I indslaget vil kanalen kan godt levere god jou
 kanalen og journalisten ofte beskriver virkeligheden ud fra kanalens politisk-kulturelle skabelon i stedet for at tage udgangspunkt i virkeligheden. Den uheldige praksis afspejler formentlig 
 flere faglige svagheder og/eller et eksplicit valg på kanalen om at fremme en bestemt politisk værdi. I dette indslag om prisen på dagligvarer for almindelige amerikanere går det helt galt.
 
-
+> »Men jeg må bare sige, nu for eksempel, når jeg går ned i det her supermarked. En af de billigste, vi har i det område her. Jamen så skal jeg for eksempel for 2 liter mælk. Og jeg vil så sige, ja jeg køber økologisk, fordi det er til mit lille barn på under to år. Jeg giver 10 dollars for 2 liter mælk. Det svarer til 65 kroner. Og mit søn, han hamrer jo igennem mælk. Altså jeg tør slet ikke tænke på. Min mand og jeg taler faktisk ofte om, at vi ikke har lyst til at faktisk se øjnene. Altså gå ind på vores konto og kigge, hvor meget bruger vi faktisk på mad om måneden. Nu er vi så i den situation, vi kæmper ikke. Vi kan sagtens betale for mad. Men det er absurd dyrt at handle ind i det her land.«
+>
+> <span class="kilde">Kilde: [medie, program], [dato], ca. [tidspunkt]</span>
+{: .citat}
 
 
 
