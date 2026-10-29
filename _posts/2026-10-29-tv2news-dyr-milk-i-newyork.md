@@ -17,7 +17,7 @@ TV2 News bragte dette indslag for at informere om de økonomiske vilkår - speci
 *TV2 konkluderer fra et supermarked, at det er absurd dyrt at købe ind i det her land*
 
 
-En sådan historie kan føres ud fra de officielle prisstatistikker, og det er ubetinget en god idé at have tjek på dem, men en konkretisering hører med for virkelig at gøre historien forståelig. Det er derfor fint, at TV2 tager udgangspunkt i en bestemt varepris i korrespondentens egen baghave. Korrespondenten fortæller engageret om prisen på mælk. Det er også et godt valg. Mælk er godt. Men herefter går det helt galt. 
+En sådan historie kan føres ud fra de officielle prisstatistikker, og det er ubetinget en god idé at have tjek på dem, men en konkretisering hører med for virkelig at gøre historien forståelig. Det er derfor fint, at TV2 tager udgangspunkt i en bestemt varepris i korrespondentens egen baghave. Forinden har studieværten gjort det klart for seerne, at emnet er det overordnede - de generelle leveomkostninger - men fører selv, meget fornuftigt, historien ind på noget konkret. Det konkrete studieværten foreslår er prisen på æg, der som bekendt har været et stort tema i USA. Korrespondenten fortæller i stedet engageret om prisen på mælk. Det er også et godt valg. Mælk er godt. Men herefter går det helt galt. 
 
 For at illustrere leveerfaring med s stististikekr for I indslaget vil kanalen kan godt levere god journalistik om nogle emner, men har det svært med emner, der er politisk aktuelle. Kanalen har det især svært med USA, hvor 
 kanalen og journalisten ofte beskriver virkeligheden ud fra kanalens politisk-kulturelle skabelon i stedet for at tage udgangspunkt i virkeligheden. Den uheldige praksis afspejler formentlig 
