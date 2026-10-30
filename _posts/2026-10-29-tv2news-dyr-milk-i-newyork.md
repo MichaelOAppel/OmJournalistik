@@ -28,19 +28,14 @@ Lad os springe frem til TV2's konklusion: Det er "absurd dyrt" at handle ind i U
 > <span class="kilde">Kilde: [medie, program], [dato], ca. [tidspunkt]</span>
 {: .citat}
 
-Problemet med den oplysning er, at hvis man vil give et billede af situationen for almindelige amerikanere, så er det ikke økologisk mælk man skal se på. Så skal man se på almindelig mælk. Og almindelig mælk koster ifølge Bureau of Labor Statistics officielle opgørelser under 10 kr. pr. liter i NY. Den brugerbaserede Numbeos opgørelse anfører en liter-pris på ca. $ 1,35 ≈ dkr. 9. Prisen for mælk i København ligger i samme leje (Føtex havde mælk til ca. 10,3 kr. i dag). 
+Problemet med den oplysning er, at hvis man vil give et billede af situationen for almindelige amerikanere, så er det ikke økologisk mælk man skal se på. Så skal man se på almindelig mælk. Og almindelig mælk koster ifølge Bureau of Labor Statistics officielle opgørelser under 10 kr. pr. liter i NY. Den brugerbaserede Numbeos opgørelse anfører en liter-pris på ca. $ 1,35 ≈ dkr. 9. Prisen for mælk i København ligger i samme leje (Rema havde mælk til ca. 10,5 kr. i dag). 
+
+![Beskrivelse af billedet]({{ 'assets/figures/tv2/22_10_26_Milk/Nubeo tal for dagligvarer i NY 30_10_26.png' | relative_url }})
+
+*Oplysninger fra Nubeos brugerrapporterede priser på mælk i New York*
 
 Den anden fejl TV2 begår er at tage NY som repræsentativ for USA. Det er forkert for prisniveauet for dagligvarer i NY ligger omkring 13% højere end landsgennemsnittet for USA. 
 
-Men er der ikke ting, der er meget dyre i NY og USA. Jo, bestemt. Det er fx meget dyrt at bo i NY sammenlignet med Danmark. Der er også dagligvarer, der er dyrere end i Danmark. Men det er ikke korrekt, at prisniveauet for dagligvarer i USA er absurd højt sammenlignet med Danmark.  
+Men er der ikke ting, der er meget dyre i NY og USA. Jo, bestemt. Det er fx meget dyrt at bo i NY sammenlignet med Danmark. Der er også dagligvarer, der er dyrere end i Danmark. Økologisk mælk ér dyr i New York og i USA generelt sammenlignet med Danmark. Siden howmuchthen.com viser priser for økologisk mælk i Brooklyn fra september 2026. hvor literprisen er ca. 28 kroner (Rema havde økologisk mælk til ca. 13 kr. for en liter i dag). Men det er ikke korrekt, at prisniveauet for dagligvarer i USA er absurd højt sammenlignet med Danmark.  
 
-
-![Beskrivelse af billedet]({{ '/assets/figures/filnavn.jpg' | relative_url }})
-
-*Figur: Billedtekst*
-
-Selve anmeldelsen.
-
-## Skønhedspletter
-
-Kritikpunkter.
+Det billede TV2 tegner af niveauet for dagligvarer er fortegnet. Det er misinformation. Det er yderst relevant at se på vælgernes økonomiske forhold, og normalt ville det give pluspoint, men hvis det man præsenterer er misvisende, så trækker det op. TV2 får karakteren -3 for dette stykke journalistik. Det er klart dumpet. TV2 er efterfølgende blevet gjort opmærksom på fejlen, men har valgt ikke at rette. Dermed bliver misinformationen til bevidst misinformation, og egentlig burde karakteren derfor justeres yderligere nedad.
