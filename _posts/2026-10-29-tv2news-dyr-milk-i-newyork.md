@@ -28,8 +28,11 @@ Lad os springe frem til TV2's konklusion: Det er "absurd dyrt" at handle ind i U
 > <span class="kilde">Kilde: [medie, program], [dato], ca. [tidspunkt]</span>
 {: .citat}
 
-Problemet med den fremstilling er, at hvis man vil give et billede af situationen for almindelige amerikanere, så er det ikke økologisk mælk man skal se på. Så skal man se på almindelig mælk. Og almindelig mælk koster ifølge Bureau of Labor Statistics officielle opgørelser og den brugerbaserede Numbeos opgørelse under 10 kr. pr. liter i NY. Numbeo anføer en liter-pris på ca. $ 1,35 ≈ dkr. 9. Prisen for mælk i Brugsen i København er litisk-kulturelle skabelon i stedet for at tage udgangspunkt i virkeligheden. Den uheldige praksis afspejler formentlig 
-flere faglige svagheder og/eller et eksplicit valg på kanalen om at fremme en bestemt politisk værdi. I dette indslag om prisen på dagligvarer for almindelige amerikanere går det helt galt.
+Problemet med den oplysning er, at hvis man vil give et billede af situationen for almindelige amerikanere, så er det ikke økologisk mælk man skal se på. Så skal man se på almindelig mælk. Og almindelig mælk koster ifølge Bureau of Labor Statistics officielle opgørelser under 10 kr. pr. liter i NY. Den brugerbaserede Numbeos opgørelse anfører en liter-pris på ca. $ 1,35 ≈ dkr. 9. Prisen for mælk i København ligger i samme leje (Føtex havde mælk til ca. 10,3 kr. i dag). 
+
+Den anden fejl TV2 begår er at tage NY som repræsentativ for USA. Det er forkert for prisniveauet for dagligvarer i NY ligger omkring 13% højere end landsgennemsnittet for USA. 
+
+Men er der ikke ting, der er meget dyre i NY og USA. Jo, bestemt. Det er fx meget dyrt at bo i NY sammenlignet med Danmark. Der er også dagligvarer, der er dyrere end i Danmark. Men det er ikke korrekt, at prisniveauet for dagligvarer i USA er absurd højt sammenlignet med Danmark.  
 
 
 ![Beskrivelse af billedet]({{ '/assets/figures/filnavn.jpg' | relative_url }})
