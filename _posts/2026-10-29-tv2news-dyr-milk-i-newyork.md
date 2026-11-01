@@ -10,16 +10,16 @@ anmeldt: 2026-10-30
 
 Indslag: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
-TV2 News annoncerer dette indslag som oplysning om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition for det er yderst relevant. Det er velkendt, at de økonomiske vilkår - herunder prisniveau og inflation - kan påvirke, hvem vælgere sætter deres kryds ved. Og Trumps økonomiske politik, primært de protektionistiske tiltag, har påvirket en typisk families økonomi markant negativt og bl.a. ved prisstigninger. Så det er et meget relevant emne TV2 vil behandle.  
+TV2 News annoncerer dette indslag som oplysning om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition for det er yderst relevant. Det er kendt, at de økonomiske vilkår - herunder prisniveau og inflation - påvirker, hvem vælgere sætter deres kryds ved. Og Trumps økonomiske politik, primært de protektionistiske tiltag, har påvirket en typisk families økonomi markant negativt og bl.a. ved prisstigninger. Så det er et meget relevant emne TV2 vil behandle.  
 
 ![Beskrivelse af billedet]({{'assets/figures/tv2/22_10_26_Milk/IntroMilkyWay2.png' | relative_url }})
 
 *TV2 konkluderer fra et supermarked, at det er absurd dyrt at købe ind i det her land*
 
 
-En sådan historie kan fortælles ud fra officielle prisstatistikker - og det er ubetinget en god idé at have tjek på dem - men det bliver for kedeligt blot at bruge en figur eller blot en tabel. En konkretisering hører med for virkelig at gøre historien forståelig. Det er derfor fint, at TV2 tager udgangspunkt i en bestemt varepris i korrespondentens egen baghave. Forinden har studieværten gjort det klart for seerne, at emnet er det overordnede - de generelle leveomkostninger - men fører selv, meget fornuftigt, historien ind på noget konkret. Så scenen er sat: Det er journalistik, så vi tager udgangspunkt i den enkelte observation, men det er gjort klart for seerne, at historien faktisk også går på det generelle. 
+En historie om forbrugspriser kan fortælles ud fra officielle prisstatistikker - og det er ubetinget en god idé at have tjek på de officielle tal - men det bliver for kedeligt blot at bruge en figur eller blot en tabel. En konkretisering hører med for at gøre historien forståelig. Det er derfor fint, at TV2 tager udgangspunkt i en bestemt varepris i korrespondentens egen baghave. Forinden har studieværten i sin intro gjort det klart for seerne, at emnet er det overordnede - de generelle leveomkostninger - men fører selv, meget fornuftigt, historien ind på noget konkret. Så scenen er sat: Det er journalistik, så vi tager udgangspunkt i den enkelte observation, men det er gjort klart for seerne, at historien faktisk også går på det generelle. 
 
-Det konkrete studieværten foreslår er prisen på æg, der som bekendt har været et stort tema i USA. Det oplæg griber korrespondenten ikke men vælger i stedet at fortælle engageret om prisen på mælk. Det er også et godt valg. Mælk indgår i den almindelige amerikaners forbrug. Mælk er godt. Men herefter går det galt. 
+Det konkrete studieværten foreslår er prisen på æg, der som bekendt har været et stort tema i USA. Det oplæg griber korrespondenten ikke men vælger i stedet at fortælle engageret om prisen på mælk. Det er også et godt valg. Mælk er godt. Mælk indgår i den almindelige amerikaners forbrug. Men herefter går det galt. 
 
 Lad os springe frem til TV2's konklusion: Det er "absurd dyrt" at handle ind i USA. Som eksempel på, hvor absurd dyrt situationen fortæller korrespondenten om prisen på økologisk mælk. Sådan en størrelse, fortæller TV2, koster den nette sum af 65 kroner for 2 liter (der menes formentlig ½ gallon, hvilket er ca. 1,9 liter, så situationen er faktisk endnu værre) svarende til 32,5 kr. pr. liter. 
 
