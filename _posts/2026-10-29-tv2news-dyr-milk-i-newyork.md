@@ -25,7 +25,7 @@ Det konkrete, studieværten foreslår, er prisen på æg. Og æg har som bekendt
 Lad os tage udgangspunkt i TV2's konklusion: Det er "absurd dyrt" at handle ind i USA. Som eksempel på, hvor absurd dyrt situationen fortæller korrespondenten om prisen på økologisk mælk. Sådan en størrelse, fortæller TV2, koster den nette sum af 65 kroner for 2 liter svarende til 32,5 kr. pr. liter. 
 
 > TV2 News:
-> »Men jeg må bare sige nu for eksempel når jeg går ned i det her supermarked. En af de billigste, vi har i det område her. Jamen så skal jeg for eksempel for 2 liter mælk. Og jeg vil så sige, ja jeg køber økologisk, fordi det er til mit lille barn på under to år. Jeg giver 10 dollars for 2 liter mælk. Det svarer til 65 kroner. Og mit søn han hamrer jo igennem mælk. Altså jeg tør slet ikke tænke på. Min mand og jeg taler faktisk ofte om, at vi ikke har lyst til og faktisk se i øjnene. Altså gå ind på vores konto og kigge, hvor meget bruger vi faktisk på mad om måneden. Nu er vi så i den situation, vi kæmper ikke. Vi kan sagtens betale for mad. Men det er absurd dyrt og handle ind i det her land.«
+> > »Men jeg må bare sige nu for eksempel når jeg går ned i det her supermarked. En af de billigste, vi har i det område her. Jamen så skal jeg for eksempel for 2 liter mælk. Og jeg vil så sige, ja jeg køber økologisk, fordi det er til mit lille barn på under to år. Jeg giver 10 dollars for 2 liter mælk. Det svarer til 65 kroner. Og mit søn han hamrer jo igennem mælk. Altså jeg tør slet ikke tænke på. Min mand og jeg taler faktisk ofte om, at vi ikke har lyst til og faktisk se i øjnene. Altså gå ind på vores konto og kigge, hvor meget bruger vi faktisk på mad om måneden. Nu er vi så i den situation, vi kæmper ikke. Vi kan sagtens betale for mad. Men det er absurd dyrt og handle ind i det her land.«
 >
 > <span class="kilde">Kilde: TV2 News, News & Co, 22-10-2026</span>
 {: .citat}
@@ -34,7 +34,7 @@ Problemet med den oplysning er, at hvis man vil give et billede af situationen f
 
 ![Beskrivelse af billedet]({{ 'assets/figures/tv2/22_10_26_Milk/Nubeo tal for dagligvarer i NY 30_10_26.png' | relative_url }})
 
-*Oplysninger fra Nubeos brugerrapporterede priser på mælk i New York*
+*Oplysninger fra Numbeos brugerrapporterede priser på mælk i New York*
 
 
 Den anden fejl TV2 begår er at behandle NY som repræsentativ for USA. Det er forkert for prisniveauet for dagligvarer i NY ligger højere end landsgennemsnittet for USA. 
