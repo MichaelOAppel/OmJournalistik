@@ -32,7 +32,7 @@ Lad os tage udgangspunkt i TV2's konklusion: Det er "absurd dyrt" at handle ind 
 
 Problemet med den oplysning er, at hvis man vil give et billede af situationen for almindelige amerikanere, så er det ikke økologisk mælk man skal se på. Så skal man se på almindelig mælk. Og almindelig mælk koster ifølge Bureau of Labor Statistics officielle opgørelser under 10 kr. pr. liter selv i dyre NY. Den brugerbaserede Numbeos opgørelse anfører en liter-pris på ca. $ 1,35 ≈ dkr. 9. Prisen for mælk i København ligger i samme leje. Jeg købte minimælk til 10,5 kr. i dag d. 31-10-2026. Og derfor er TV2's fremstilling, om absurd dyre priser på mælk for almindelige mennesker i USA, vildledende. 
 
-![Numbeo data]({{ 'assets/figures/tv2/22_10_26_Milk/Nubeo tal for dagligvarer i NY 30_10_26.png' | relative_url }})
+![Numbeo data]({{'assets/figures/tv2/22_10_26_Milk/Numbeo-tal-for-dagligvarer-NY-30-10-26.png' | relative_url }})
 
 *Oplysninger fra Numbeos brugerrapporterede priser på mælk i New York*
 
