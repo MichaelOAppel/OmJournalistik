@@ -32,7 +32,7 @@ Lad os tage udgangspunkt i TV2's konklusion: Det er "absurd dyrt" at handle ind 
 
 Problemet med den oplysning er, at hvis man vil give et billede af situationen for almindelige amerikanere, så er det ikke økologisk mælk man skal se på. Så skal man se på almindelig mælk. Og almindelig mælk koster ifølge Bureau of Labor Statistics officielle opgørelser under 10 kr. pr. liter selv i dyre NY. Den brugerbaserede Numbeos opgørelse anfører en liter-pris på ca. $ 1,35 ≈ dkr. 9. Prisen for mælk i København ligger i samme leje (jeg købte minimælk til 10,5 kr. i dag). Og derfor er TV2's fremstilling om absurd dyre priser på mælk, for almindelige mennesker i USA, er vildledende. 
 
-![Beskrivelse af billedet]({{ 'assets/figures/tv2/22_10_26_Milk/Nubeo tal for dagligvarer i NY 30_10_26.png' | relative_url }})
+![Numbeo data]({{ 'assets/figures/tv2/22_10_26_Milk/Nubeo tal for dagligvarer i NY 30_10_26.png' | relative_url }})
 
 *Oplysninger fra Numbeos brugerrapporterede priser på mælk i New York*
 
@@ -41,10 +41,18 @@ Den anden fejl TV2 begår er at behandle NY som repræsentativ for USA. Det er f
 
 Men er der ikke ting, der er meget dyre i NY og USA. Jo, bestemt. Det er fx meget dyrt at bo i NY sammenlignet med Danmark og med det gennemsnitlige USA. Der er også dagligvarer, der er dyrere end i Danmark. Økologisk mælk er dyr i New York og i USA generelt sammenlignet med Danmark. Siden howmuchthen.com viser priser for økologisk mælk i Brooklyn fra september 2026. hvor literprisen er ca. 28 kroner (Rema havde økologisk mælk til ca. 13 kr. for en liter i dag). Men det er ikke korrekt, at prisniveauet for dagligvarer i USA er absurd højt sammenlignet med Danmark. Sammenligninger mellem de to lande for det generelle prisniveau for dagligvarer svinger fra USA lidt billigere til USA noget dyrere. Aktuelle tal trukket fra Numbeo indikerer at prisniveauet i USA ligger ca. 5 pct. over det danske. Jyllands-Posten undersøgte i 2025 prisen på en kurv af varer for blandt andre Danmark og USA og fandt at priserne var ca. 14 pct. højere i USA. Jyllands-Posten sammenlignede data fra Århus med data fra USA's hovedstad Washington DC og ovenikøbet fra et af byens lidt finere supermarkeder, hvilket giver en skævhed, men hovedkonklusionen - at priserne var højere i USA - er formentlig god nok. Tilbage står dog, at den erfarede forskel er beskeden og meget langt fra den fremstilling TV2 tegner, på grundlag af den dyre økologiske mælk, om absurd dyre dagligvarer i USA. 
 
+![Collage med datakilder]({{'assets/figures/tv2/22_10_26_Milk/Collage-Kilder-inflation-Sammenligning.jpg' | relative_url }})
+
+*Collage: Numbeo sammenligning af generelle dagligvareprisniveau, BLS om udvikling i pris på æg mm, FRED med partielt inflationsmålTV2 om de amerikanske*
+
 ### Hvorfor misinformationen? ### 
 
-Man kan spekulere over, hvad der motiverer TV2 til et så misvisende indslag. En uskyldig fejl? På grund af ringe faglige evner mens man faktisk tror, at man giver et retvisende billede? Aktivisme? En særlig dansk tradition for fortegnede fremstillinger af det amerikanske samfund? Eller bare banal sensationalisme, hvor man opfinder noget ekstremt for at få journalistikken til at fremstå spændende og vigtig. Mit gæt er, at flere faktorer spiller ind, men det er naturligvis spekulation. 
+Man kan spekulere over, hvad der motiverer TV2 til et så misvisende indslag. En uskyldig fejl? Manglende faglige kvalifikationer så man faktisk tror, at man giver et retvisende billede ved at oplyse prisen på økologisk mælk? Aktivisme? En særlig dansk tradition for 'Amerikansk Billeder' med skræmmende fremstillinger af det amerikanske samfund? Eller bare banal sensationalisme, hvor man vælger noget ekstremt for at få journalistikken til at fremstå oprørende og vigtig. Mit gæt er, at flere faktorer spiller ind, men det er naturligvis bare spekulation.
 
-### Karakter ### 
+### Hvad burde TV2 have gjort? ###
+
+
+
+### Karakter: 00 ### 
 
 Det billede TV2 tegner af niveauet for dagligvarer er fortegnet. Det er misinformation. Seeren efterlades med ringere viden, end inden indslaget blev bragt. Det er relevant at se på vælgernes økonomiske forhold, så emnet er godt set, men hvis det sker så misvisende, så trækker det ikke rigtig op, at emnet er rigtigt valgt. TV2 får karakteren -3 for dette stykke journalistik. TV2 er efterfølgende blevet gjort opmærksom på den misvisende fremstilling, men har valgt ikke at rette. Dermed bliver misinformationen til bevidst misinformation, og egentlig burde karakteren derfor justeres yderligere nedad, men da vi allerede har nået bunden, er det ikke muligt.
