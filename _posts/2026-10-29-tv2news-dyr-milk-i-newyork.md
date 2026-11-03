@@ -2,7 +2,7 @@
 layout: default
 published: false
 title: "Indslag om prisen på dagligvarer i USA"
-karakter: -3
+karakter: 00
 medie: TV2 News
 artikel_dato: 2026-10-22
 anmeldt: 2026-10-30
@@ -24,7 +24,7 @@ Det konkrete, studieværten foreslår, er prisen på æg. Og æg har som bekendt
 
 Lad os tage udgangspunkt i TV2's konklusion: Det er "absurd dyrt" at handle ind i USA. Som eksempel på, hvor absurd dyrt situationen fortæller korrespondenten om prisen på økologisk mælk. Sådan en størrelse, fortæller TV2, koster den nette sum af 65 kroner for 2 liter svarende til 32,5 kr. pr. liter. 
 
-> TV2 News:
+> TV2 News oplyser:
 > > »Men jeg må bare sige nu for eksempel når jeg går ned i det her supermarked. En af de billigste, vi har i det område her. Jamen så skal jeg for eksempel for 2 liter mælk. Og jeg vil så sige, ja jeg køber økologisk, fordi det er til mit lille barn på under to år. Jeg giver 10 dollars for 2 liter mælk. Det svarer til 65 kroner. Og mit søn han hamrer jo igennem mælk. Altså jeg tør slet ikke tænke på. Min mand og jeg taler faktisk ofte om, at vi ikke har lyst til og faktisk se i øjnene. Altså gå ind på vores konto og kigge, hvor meget bruger vi faktisk på mad om måneden. Nu er vi så i den situation, vi kæmper ikke. Vi kan sagtens betale for mad. Men det er absurd dyrt og handle ind i det her land.«
 >
 > <span class="kilde">Kilde: TV2 News, News & Co, 22-10-2026</span>
@@ -41,17 +41,17 @@ Den anden fejl TV2 begår er at behandle NY som repræsentativ for USA. Det er f
 
 Men er der ikke ting, der er meget dyre i NY og USA. Jo, bestemt. Det er fx meget dyrt at bo i NY sammenlignet med Danmark og med det gennemsnitlige USA. Der er også dagligvarer, der er dyrere end i Danmark. Økologisk mælk er dyr i New York og i USA generelt sammenlignet med Danmark. Siden howmuchthen.com viser priser for økologisk mælk i Brooklyn fra september 2026. hvor literprisen er ca. 28 kroner (Rema havde økologisk mælk til ca. 13 kr. for en liter i dag). Men det er ikke korrekt, at prisniveauet for dagligvarer i USA er absurd højt sammenlignet med Danmark. Sammenligninger mellem de to lande for det generelle prisniveau for dagligvarer svinger fra USA lidt billigere til USA noget dyrere. Aktuelle tal trukket fra Numbeo indikerer at prisniveauet i USA ligger ca. 5 pct. over det danske. Jyllands-Posten undersøgte i 2025 prisen på en kurv af varer for blandt andre Danmark og USA og fandt at priserne var ca. 14 pct. højere i USA. Jyllands-Posten sammenlignede data fra Århus med data fra USA's hovedstad Washington DC og ovenikøbet fra et af byens lidt finere supermarkeder, hvilket giver en skævhed, men hovedkonklusionen - at priserne var højere i USA - er formentlig god nok. Tilbage står dog, at den erfarede forskel er beskeden og meget langt fra den fremstilling TV2 tegner, på grundlag af den dyre økologiske mælk, om absurd dyre dagligvarer i USA. 
 
-![Collage med datakilder]({{'assets/figures/tv2/22_10_26_Milk/Collage-Kilder-inflation-Sammenligning.jpg' | relative_url }})
+![Collage med diverse datakilder]({{'assets/figures/tv2/22_10_26_Milk/Collage-Kilder-inflation-Sammenligning.jpg' | relative_url }})
 
 *Collage: Numbeo sammenligning af generelle dagligvareprisniveau, BLS om udvikling i pris på æg mm, FRED med partielt inflationsmålTV2 om de amerikanske*
 
 ### Hvorfor misinformationen? ### 
 
-Man kan spekulere over, hvad der motiverer TV2 til et så misvisende indslag. En uskyldig fejl? Manglende faglige kvalifikationer så man faktisk tror, at man giver et retvisende billede ved at oplyse prisen på økologisk mælk? Aktivisme? En særlig dansk tradition for 'Amerikansk Billeder' med skræmmende fremstillinger af det amerikanske samfund? Eller bare banal sensationalisme, hvor man vælger noget ekstremt for at få journalistikken til at fremstå oprørende og vigtig. Mit gæt er, at flere faktorer spiller ind, men det er naturligvis bare spekulation.
+Man kan spekulere over, hvad der motiverer TV2 til et så misvisende indslag. En uskyldig fejl? Manglende faglige kvalifikationer så man faktisk tror, at man giver et retvisende billede ved at oplyse prisen på økologisk mælk? Aktivisme? En særlig dansk tradition for 'Amerikansk Billeder' med skræmmende fremstillinger af det amerikanske samfund? Eller bare banal sensationalisme, hvor man vælger noget ekstremt for at få journalistikken til at fremstå oprørende og vigtig. Mit gæt er, at flere faktorer spiller ind, men det er naturligvis bare spekulation. Det, der er sikkert, er, at man med den misvisende fremstilling gør historien vildere og mere interessant.  
 
 ### Hvad burde TV2 have gjort? ###
 
-
+Hvis formålet var at belyse, hvilke priser de amerikanske vælgere møder i supermarkedet, så skulle man have valgt en repræsentativ kurv af varer. Og ville  s økonomiske situation
 
 ### Karakter: 00 ### 
 
