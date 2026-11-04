@@ -43,9 +43,9 @@ Men er der ikke ting, der er meget dyre i NY og USA. Jo, bestemt. Det er fx mege
 
 Saglige sammenligninger mellem de to lande for det generelle prisniveau for dagligvarer svinger fra at USA er lidt billigere til USA noget dyrere. Verdensbankens sammenligning i ICP-programmet går ned på dagligvare-niveau, og viste i 2021 et lidt lavere prisniveau i USA, men Verdensbanken har ikke opdaterede tal for 2025. Jyllands-Posten sammenlignede i 2025 prisen på en kurv af varer indkøbt i Danmark og USA og fandt at priserne var ca. 14 pct. højere i USA. Jyllands-Posten valgte at sammenligne priser fra et supermarked i Århus med priser fra et af de lidt finere supermarkeder i USA's hovedstad Washington DC, hvilket giver en risiko for en skævhed. Hovedkonklusionen - at priserne var højere i USA - kan dog være god nok. Aktuelle tal trukket fra Numbeo indikerer at prisniveauet i USA ligger ca. 5 pct. over det danske. Tilbage står dog, at der er meget langt fra disse konstaterede forskelle til TV2's fremstilling, på grundlag af den dyre økologiske mælk, om absurd dyre dagligvarer i USA. 
 
-![Collage med diverse datakilder]({{'assets/figures/tv2/22_10_26_Milk/Collage-Kilder-inflation-Sammenligning.jpg' | relative_url }})
+![Collage med diverse datakilder]({{'assets/figures/tv2/22_10_26_Milk/Collage2-Kilder-inflation-Sammenligning.jpg' | relative_url }})
 
-*Collage: Numbeo sammenligning af generelle dagligvareprisniveau, BLS om udvikling i pris på æg mm, FRED med inflationsmålTV2 om de amerikanske, m.fl.*
+*Collage: Udvalg af kilder*
 
 ### Hvorfor misinformationen? ### 
 
