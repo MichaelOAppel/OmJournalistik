@@ -1,6 +1,6 @@
 ---
 layout: default
-published: false
+published:
 title: "Indslag om prisen på dagligvarer i USA"
 karakter: -3
 medie: TV2 News
@@ -10,7 +10,9 @@ anmeldt: 2026-10-30
 
 Indslag: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
-TV2 News annoncerer dette indslag som oplysning om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition om et relevant emne. Det er kendt, at de økonomiske vilkår - herunder prisniveau og inflation - påvirker vælgernes beslutning og, hvor krydset skal sættes. Og en del af Trumps økonomiske politik, primært de protektionistiske tiltag, har påvirket en typisk families økonomi markant negativt pga. afledte prisstigninger på dagligvarer.  
+UNDER UDARBEJDELSE
+
+TV2 News annoncerer dette indslag som oplysning om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition om et relevant emne. Det er kendt, at de økonomiske vilkår - herunder prisniveau og inflation - påvirker vælgernes beslutning og, hvor krydset skal sættes. Og en del af Trumps økonomiske politik, primært de protektionistiske tiltag, har påvirket en typisk families økonomi markant negativt pga. afledte prisstigninger.
 
 ![TV2 i New York]({{'assets/figures/tv2/22_10_26_Milk/IntroMilkyWay2.png' | relative_url }})
 
@@ -21,9 +23,9 @@ En historie om priserne på dagligvarer kan fortælles ud fra officielle prissta
 
 ### Cherry picking ###
 
-Det konkrete, studieværten foreslår, er prisen på æg. Æg har som bekendt været et stort tema i USA. Det oplæg griber korrespondenten dog ikke men vælger i stedet at fortælle om prisen på *mælk*. Det er også et godt valg. Mælk er godt. Mælk indgår i mange almindelige amerikaneres forbrug. Og det figurerer også på mange danskere indkøbsliste, så det er en pris seerne kan forholde sig til. Men herefter løber journalistikken af sporet: I stedet for at følge beviserne, hvor de end peger, så virker det her som om man har lagt sig fast på en konklusion og nøje udvælger "beviser", der kan bekræfte historien. Indslaget er således et eksempel på *cherry picking*. 
+Det konkrete, studieværten foreslår, er prisen på æg. Æg har som bekendt været et stort tema i USA. Det oplæg griber korrespondenten dog ikke, men vælger i stedet at fortælle om prisen på *mælk*. Det er også et godt valg. Mælk er godt. Mælk indgår i mange almindelige amerikaneres forbrug. Og det figurerer også på mange danskeres indkøbsliste, så det er en pris seerne kan forholde sig til. Men herefter løber journalistikken af sporet: I stedet for at følge beviserne, hvor de end peger, så virker det her som om man har lagt sig fast på en konklusion og nøje udvælger "beviser", der kan bekræfte historien. Indslaget er således et eksempel på *cherry picking*. 
 
-Hvordan når jeg frem til den konklusion? Lad os tage udgangspunkt i TV2's egen konklusion, der adresserer prisniveauet for dagligvarer i al almindelighed i USA: Det er "absurd dyrt" at handle ind i USA. Dét er TV2's udlægning. Som eksempel på, hvor absurd dyrt det er, fortæller korrespondenten om prisen på *økologisk mælk*. Sådan en størrelse, fortæller TV2, koster den nette sum af 65 kroner for 2 liter svarende til 32,5 kr. pr. liter. Og for danske seere, der kan købe en liter økologisk til ca. 13 kroner, må den oplysning formodes at gøre et stort og skræmmende indtryk. Udtrykket "absurd dyrt" er i sig selv problematisk i en oplysende journalistisk sammenhæng, fordi det både er værdiladet og upræcist, men om ikke andet giver eksemplet seerne en idé om, hvad TV2 forstår ved absurd: fx en næsten 3 gange så høj pris som i Danmark.
+Hvordan når jeg frem til den konklusion? Lad os tage udgangspunkt i TV2's egen konklusion, der adresserer prisniveauet for dagligvarer i al almindelighed i USA: Det er "absurd dyrt" at handle ind i USA. Dét er TV2's udlægning. Som eksempel på, hvor absurd dyrt det er, fortæller korrespondenten om prisen på *økologisk mælk*. Sådan en størrelse, fortæller TV2, koster den nette sum af 65 kroner for 2 liter svarende til 32,5 kr. pr. liter. Og for danske seere, der kan købe en liter økologisk mælk til ca. 13 kroner, må den oplysning formodes at gøre et stort og skræmmende indtryk. Udtrykket "absurd dyrt" er i sig selv problematisk i en oplysende journalistisk sammenhæng, fordi det både er værdiladet og upræcist, men om ikke andet giver eksemplet seerne en idé om, hvad TV2 forstår ved absurd: fx en 2,5 gange så høj pris som i Danmark.
 
 
 > TV2 News' korrespondent oplyser:
@@ -56,7 +58,7 @@ Lad mig starte med den næstbedste løsning. Den ville være, at TV2 havde være
 
 Den bedste løsning havde været, at man havde valgt en repræsentativ kurv af varer eller i hvert fald nogle varer. Metodemæssigt skulle man have gjort det, at man tog udgangspunkt i de officielle kilder, og derefter skulle man have stået ved og brugt et supermarked med nogle bestemte varer til illustration af den sande historie. Til belysning af udviklingen under Trump i forhold til tidligere skulle man have vist udviklingen for disse varer med udgangspunkt i konkrete data. Så kunne det være blevet en både spændende og saglig historie.
 
-Det journalistiske mantra med hensyn til metode er, at man skal arbejde med verificeret information. Det er også fint nok, hvis verifikation forstås rigtigt, og fx er det fint, at TV2 tjekker prisen på økologisk mælk i et supermarked og på den måde får verificeret en pris på, angiveligt, 32,5 kr. pr. liter. Problemet opstår, hvis man i tillæg til en sådan historie generaliserer. Det, man skulle have verificeret i dette tilfælde, var ikke prisen i journalistens supermarked, men den generelle påstand, at dagligvarer er absurd dyre i USA i forhold til Danmark. Problemet med journalisters fortolkning og anvendelse af verifikationsmetoden er, at de kan have en tendens til at forstå den som alene en søgen efter eksempler, der bekræfter deres forventning. Det kunne derfor være hjælpsomt for journalister også at arbejde ud fra en variation af et falsifikationsprincip, og fx i det konkrete tilfælde stille sig selv spørgsmålet, om der er noget der modbeviser generaliseringen. At spørge, om der er noget, der taler imod ens udlægning om, at det er absurd dyrt at handle ind i det her land.
+Det journalistiske mantra med hensyn til metode er, at man skal arbejde med verificeret information. Det er også fint nok, hvis verifikation forstås rigtigt, og fx er det fint, at TV2 tjekker prisen på økologisk mælk i et supermarked og på den måde får verificeret en pris på, angiveligt, 32,5 kr. pr. liter. Problemet opstår, hvis man i tillæg til en sådan historie generaliserer. Det, man skulle have verificeret i dette tilfælde, var ikke prisen i journalistens supermarked, men den generelle påstand, at dagligvarer er absurd dyre i USA i forhold til Danmark. Problemet med journalisters fortolkning og anvendelse af verifikationsmetoden er, at de kan have en tendens til at forstå den som alene en søgen efter eksempler, der bekræfter deres forventning. Det kunne derfor være hjælpsomt for journalister også at arbejde ud fra en variation af et falsifikationsprincip, og fx i det konkrete tilfælde stille sig selv spørgsmålet, om der er noget, der strider med generaliseringen. Og at spørge  sig selv, om der er noget, der taler imod ens konklusion om, at det er absurd dyrt at handle ind i det her land.
 
 ### Karakter: -3 ### 
 
