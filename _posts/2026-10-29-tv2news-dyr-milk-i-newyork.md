@@ -1,6 +1,6 @@
 ---
 layout: default
-published:
+published: true
 title: "Indslag om prisen på dagligvarer i USA"
 karakter: -3
 medie: TV2 News
