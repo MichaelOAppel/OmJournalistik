@@ -10,7 +10,7 @@ anmeldt: 2026-10-30
 
 Indslag: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
-UNDER UDARBEJDELSE
+UNDER UDARBEJDELSE 
 
 TV2 News annoncerer dette indslag som oplysning om de økonomiske vilkår - specifikt priserne på dagligvarer - for almindelige amerikanere forud for midtvejsvalget. Det er en god ambition om et relevant emne. Det er kendt, at de økonomiske vilkår - herunder prisniveau og inflation - påvirker vælgernes beslutning og, hvor krydset skal sættes. Og en del af Trumps økonomiske politik, primært de protektionistiske tiltag, har påvirket en typisk families økonomi markant negativt pga. afledte prisstigninger.
 
