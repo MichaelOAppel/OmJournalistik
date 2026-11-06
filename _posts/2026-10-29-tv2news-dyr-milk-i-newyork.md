@@ -41,7 +41,7 @@ For så vidt angår prisen på økologisk mælk i USA, er det korrekt, at den er
 
 Men uanset hvilken pris for økologisk mælk i USA vi går med, så dokumenterer det ikke, at det generelle prisniveau for dagligvarer i USA for almindelige mennesker er absurd højt sammenlignet med Danmark. TV2 suggerer blot, at det er tilfældet. Og det gør man ved at fremhæve korrespondentens høje pris på økologisk mælk og den tilhørende stærke sprogbrug og ved at fortie prisen på almindelig mælk.  
 
-![Dokumentation United States Department of Agriculture]({{'assets/figures/tv2/22_10_26_Milk/Collage-Milk-Pris-Dept-Agricult.jpg' | relative_url }})
+![Dokumentation United States Department of Agriculture]({{'assets/figures/tv2/22_10_26_Milk/Collage-dagri-milk-prices-small.jpg' | relative_url }})
 
 *Mælkepriser fra United States Department of Agriculture*
 
