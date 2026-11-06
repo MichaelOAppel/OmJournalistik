@@ -7,7 +7,7 @@ medie: TV2 News
 artikel_dato: 2026-10-22
 anmeldt: 2026-10-30
 ---
-UNDER UDARBEJDELSE
+UNDER UDARBEJDELSE kk
 
 Indslag: {{ page.artikel_dato | date: "%d.%m.%Y" }} · Anmeldt: {{ page.anmeldt | date: "%d.%m.%Y" }}
 
