@@ -20,6 +20,6 @@ title: Forside
 
 <ul class="anmeldelser">
 {% for post in site.posts %}
-<li><span class="kar">{{ post.karakter }}</span><span class="tit"><a href="{{ post.url | relative_url }}">{{ post.medie }}: “{{ post.title }}”</a>. (Anmeldt {{ post.anmeldt | date: "%d.%m.%Y" }}).</span></li>
+<li><span class="kar">{{ post.karakter }}</span><span class="tit"><a href="{{ post.url | relative_url }}">{{ post.medie }}: “{{ post.title }}”</a>&nbsp;<span class="sep">|</span> <span class="dat">Anmeldt {{ post.anmeldt | date: "%d.%m.%Y" }}</span></span></li>
 {% endfor %}
 </ul>
