@@ -44,6 +44,9 @@
     a { color: #111111; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
     a:visited { color: #444444; }
     a:hover { color: #b22; }
+    h1.anmeldelse { display: flex; align-items: baseline; }
+    h1.anmeldelse .kar { flex: none; padding-right: 0.8rem; white-space: nowrap; font-variant-numeric: tabular-nums; }
+    h1.anmeldelse .tit { border-left: 1px solid currentColor; padding-left: 0.9rem; }
   </style>
 </head>
 <body>
@@ -55,7 +58,7 @@
     <a href="{{ '/om/' | relative_url }}">Om</a>
   </nav>
   {% if page.collection == "posts" %}
-    <h1 class="anmeldelse">[{{ page.karakter }}] {{ page.medie }}: “{{ page.title }}”</h1>
+  <h1 class="anmeldelse"><span class="kar">{{ page.karakter }}</span><span class="tit">{{ page.medie }}: “{{ page.title }}”</span></h1>
   {% endif %}
   {{ content }}
 </body>
