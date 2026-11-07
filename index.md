@@ -2,7 +2,7 @@
 layout: default
 title: Forside
 ---
-
+ 
 <h1 class="sitetitel">Om Journalistik</h1>
 
 <p class="undertitel">– anmeldelser af journalistik –</p>
