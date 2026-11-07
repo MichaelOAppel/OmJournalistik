@@ -18,6 +18,8 @@ title: Forside
 
 <h2 class="midt">Seneste anmeldelser</h2>
 
+<ul class="anmeldelser">
 {% for post in site.posts %}
-- **[{{ post.karakter }}]** [{{ post.medie }}: “{{ post.title }}”]({{ post.url | relative_url }}). (Anmeldt {{ post.anmeldt | date: "%d.%m.%Y" }}).
-{% endfor %} 
+<li><span class="kar">{{ post.karakter }}</span><span class="tit"><a href="{{ post.url | relative_url }}">{{ post.medie }}: “{{ post.title }}”</a>. (Anmeldt {{ post.anmeldt | date: "%d.%m.%Y" }}).</span></li>
+{% endfor %}
+</ul>
