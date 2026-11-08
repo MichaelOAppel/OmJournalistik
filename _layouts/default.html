@@ -1,55 +1,199 @@
+{%- comment -%}
+  =====================================================================
+  DEFAULT.HTML - sidens fælles skabelon (layout)
+  Alle sider bruger denne skabelon. Den består af tre dele:
+    1) <head>: tekniske oplysninger, skrifttyper og al CSS (udseendet)
+    2) <nav>: menuen øverst
+    3) Indholdet: den enkelte sides egen tekst sættes ind til sidst
+  Kommentarer i blokke som denne (Liquid-kommentarer) vises ikke på
+  den færdige side. CSS-kommentarer (/* ... */) sendes med til
+  læserne, men er usynlige.
+  =====================================================================
+{%- endcomment -%}
 <!DOCTYPE html>
 <html lang="da">
 <head>
+  {% comment %} Tegnsæt: sørger for at æ, ø og å vises korrekt. {% endcomment %}
   <meta charset="utf-8">
+  {% comment %} Viewport: får siden til at tilpasse sig bredden på mobilen. {% endcomment %}
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  {% comment %}
+    Sidens titel i browserfanen: den enkelte sides titel, en lodret
+    streg og hjemmesidens navn (sat i _config.yml).
+  {% endcomment %}
   <title>{{ page.title }} | {{ site.title }}</title>
+  {% comment %}
+    De tre linjer herunder henter skrifttyperne fra Google Fonts:
+    Roboto Slab (overskrifter) og Source Sans 3 (brødtekst).
+    "preconnect" gør blot indlæsningen lidt hurtigere.
+  {% endcomment %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&family=Source+Sans+3:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+ 
   <style>
-    h1.sitetitel { font-size: 2.6em; text-align: center; }
-    .undertitel { text-align: center; }
-    img.forsidefigur { max-width: 30%; height: auto; display: block; margin: 1.5rem auto; }
+    /* =================================================================
+       CSS = sidens udseende.
+       Hver regel har formen: hvad (vælger) { egenskab: værdi; }
+       Reglerne står i denne rækkefølge:
+         1. Grundlayout       5. Menu
+         2. Overskrifter      6. Forsiden
+         3. Links             7. Den enkelte anmeldelse (inkl. citatboks)
+         4. Billeder          8. Karakterskalaen
+       Vigtigt: Når to regler gælder det samme, vinder den mest
+       specifikke (fx h1.anmeldelse slår h1) - og er de lige specifikke,
+       vinder den, der står SIDST.
+       Enheder: rem = størrelse i forhold til browserens grundskrift
+       (normalt 16 px), em = i forhold til skriften omkring.
+       Farver: #111 næsten sort, #333 mørkegrå, #555 grå, #b22 rød.
+       ================================================================= */
+ 
+ 
+    /* ========== 1. GRUNDLAYOUT ========== */
+ 
+    /* Hele siden: brødtekstens skrifttype, størrelse (1.1rem = 10 %
+       større end normalt), kolonnebredde (40rem), centreret på skærmen
+       (margin: auto), luft i siderne (padding) og linjeafstand. */
     body { font-family: "Source Sans 3", sans-serif; font-size: 1.1rem; max-width: 40rem; margin: 2rem auto; padding: 0 1rem; line-height: 1.65; }
+ 
+ 
+    /* ========== 2. OVERSKRIFTER ========== */
+ 
+    /* Alle overskrifter bruger skrifttypen Roboto Slab. */
     h1, h2, h3 { font-family: "Roboto Slab", serif; }
-    h1 { font-size: 1.6em; font-weight: 700; line-height: 1.3; text-align: center; }
-    h1.anmeldelse { font-size: 1.35em; text-align: left; }
-    img { max-width: 100%; height: auto; display: block; margin: 1rem 0; }
-    table.karakterskala { border-collapse: collapse; width: 100%; }
-    table.karakterskala td { border: 1px solid #333; vertical-align: middle; }
-    table.karakterskala td:first-child { text-align: right; padding: 0.4em 0.7em 0.4em 0.4em; white-space: nowrap; font-weight: bold; }
-    table.karakterskala td:nth-child(2) { text-align: center; padding: 0.4em 0.8em; }
-    table.karakterskala td:nth-child(3) { padding: 0.4em 0.6em; }
-    h1 { font-size: 1.35em; font-weight: bold; line-height: 1.3; }
-    img.banner-march { width: 100%; height: auto; display: block; margin: 0.4rem auto 1.2rem; }
-    nav { text-align: center; margin-bottom: 2.5em; }
-    nav a { margin: 0 0.6rem; }
-    h2.midt { text-align: center; }
-    blockquote.citat { margin: 1.8rem 0; padding: 1rem 1.3rem; border-left: 5px solid #b22; background: #f5f5f2; font-family: "Roboto Slab", serif; font-size: 0.95em; line-height: 1.65; }
-    blockquote.citat p { margin: 0 0 0.7rem; }
-    blockquote.citat p:last-child { margin-bottom: 0; }
-    blockquote.citat .kilde { display: block; margin-top: 0.9rem; font-family: "Source Sans 3", sans-serif; font-size: 0.85em; color: #555; }
+ 
+    /* h1: størrelse, fed, linjeafstand og centreret.
+       (Særlige h1-overskrifter har egne regler: se forsiden og
+       anmeldelserne længere nede.) */
+    h1 { font-size: 1.35em; font-weight: 700; line-height: 1.3; text-align: center; }
+ 
+    /* h2 (## i teksten): lidt større end brødtekst, luft over. */
     h2 { font-size: 1.25em; margin-top: 2rem; }
+ 
+    /* h3 (### i teksten): knap så stor, luft over. */
     h3 { font-size: 1.1em; margin-top: 1.5rem; }
-    p:has(> img) + p:has(> em:only-child) { text-align: center; }
-    img { border: 1px solid #555; box-sizing: border-box; }
-    img.banner-march, img.forsidefigur { border: none; }
-    ul.anmeldelser { list-style: none; padding: 0; margin: 1.5rem 0; }
-    ul.anmeldelser li { display: grid; grid-template-columns: 4.3rem 1fr; align-items: baseline; margin-bottom: 1rem; line-height: 1.4; }
-    ul.anmeldelser .kar { text-align: right; padding-right: 0.8rem; color: #333; font-family: "Roboto Slab", serif; font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
-    ul.anmeldelser .tit { border-left: 1px solid #333; padding-left: 0.9rem; }
-    ul.anmeldelser .sep { color: #333; margin: 0 0.2rem; }
-    ul.anmeldelser .dat { color: #333; white-space: nowrap; }
+ 
+ 
+    /* ========== 3. LINKS ========== */
+ 
+    /* Links: næsten sorte, understregede med tynd streg lidt fra teksten. */
     a { color: #111111; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.15em; }
+ 
+    /* Link, læseren allerede har besøgt: lidt lysere grå. */
     a:visited { color: #444444; }
+ 
+    /* Når musen er over et link: rød. */
     a:hover { color: #b22; }
-    h1.anmeldelse { display: flex; align-items: baseline; }
+ 
+ 
+    /* ========== 4. BILLEDER OG FIGURTEKSTER ========== */
+ 
+    /* Alle billeder: aldrig bredere end teksten, egen linje, luft over
+       og under og en tynd mørkegrå ramme. box-sizing: border-box
+       sørger for, at rammen ikke gør billedet for bredt. */
+    img { max-width: 100%; height: auto; display: block; margin: 1rem 0; border: 1px solid #555; box-sizing: border-box; }
+ 
+    /* Figurtekst: et afsnit, der kun består af kursiv tekst og står lige
+       efter et billede, centreres. (:has(...) betyder "indeholder".) */
+    p:has(> img) + p:has(> em:only-child) { text-align: center; }
+ 
+ 
+    /* ========== 5. MENU ========== */
+ 
+    /* Menulinjen øverst: centreret og med luft nedenunder. */
+    nav { text-align: center; margin-bottom: 2.5em; }
+ 
+    /* Hvert menupunkt: lige meget luft på begge sider. */
+    nav a { margin: 0 0.6rem; }
+ 
+ 
+    /* ========== 6. FORSIDEN ========== */
+ 
+    /* Hovedtitlen "Om Journalistik": større end andre h1 (centreret
+       arves fra h1-reglen). */
+    h1.sitetitel { font-size: 2.6em; }
+ 
+    /* Linjen "- anmeldelser af journalistik -" under titlen. */
+    .undertitel { text-align: center; }
+ 
+    /* Animationen med strikfigurerne: fuld bredde, centreret, uden ramme. */
+    img.banner-march { width: 100%; margin: 0.4rem auto 1.2rem; border: none; }
+ 
+    /* Wolf-citatbilledet: højst 30 % af bredden, centreret, uden ramme. */
+    img.forsidefigur { max-width: 30%; margin: 1.5rem auto; border: none; }
+ 
+    /* "Seneste anmeldelser" (klassen "midt" sættes i index.md). */
+    h2.midt { text-align: center; }
+ 
+    /* Listen over anmeldelser: ingen punkttegn og ingen indrykning. */
+    ul.anmeldelser { list-style: none; padding: 0; margin: 1.5rem 0; }
+ 
+    /* Hver række: to kolonner (karakter 4,3 rem bred, titel resten). */
+    ul.anmeldelser li { display: grid; grid-template-columns: 4.3rem 1fr; align-items: baseline; margin-bottom: 1rem; line-height: 1.4; }
+ 
+    /* Karakteren: højrestillet, mørkegrå, fed, lige brede tal. */
+    ul.anmeldelser .kar { text-align: right; padding-right: 0.8rem; color: #333; font-family: "Roboto Slab", serif; font-weight: 700; font-variant-numeric: tabular-nums; white-space: nowrap; }
+ 
+    /* Titlen: lodret streg i venstre side og lidt luft ved siden af. */
+    ul.anmeldelser .tit { border-left: 1px solid #333; padding-left: 0.9rem; }
+ 
+    /* Den lodrette streg (|) mellem titel og dato. */
+    ul.anmeldelser .sep { color: #333; margin: 0 0.2rem; }
+ 
+    /* "Anmeldt ..."-datoen: mørkegrå og holdes sammen på én linje. */
+    ul.anmeldelser .dat { color: #333; white-space: nowrap; }
+ 
+ 
+    /* ========== 7. DEN ENKELTE ANMELDELSE ========== */
+ 
+    /* Overskriften: karakter og titel ved siden af hinanden (flex), på
+       samme grundlinje. Teksten stilles til venstre. */
+    h1.anmeldelse { display: flex; align-items: baseline; text-align: left; }
+ 
+    /* Karakteren: fylder kun det, den skal; luft til højre; ingen linjeskift. */
     h1.anmeldelse .kar { flex: none; padding-right: 0.8rem; white-space: nowrap; font-variant-numeric: tabular-nums; }
+ 
+    /* Titlen: lodret streg i samme farve som teksten (currentColor). */
     h1.anmeldelse .tit { border-left: 1px solid currentColor; padding-left: 0.9rem; }
+ 
+    /* Citatboksen (klassen "citat" sættes i anmeldelsen): luft omkring,
+       rød streg i venstre side, lysegrå baggrund. */
+    blockquote.citat { margin: 1.8rem 0; padding: 1rem 1.3rem; border-left: 5px solid #b22; background: #f5f5f2; font-family: "Roboto Slab", serif; font-size: 0.95em; line-height: 1.65; }
+ 
+    /* Afsnit i boksen: lidt luft mellem dem. */
+    blockquote.citat p { margin: 0 0 0.7rem; }
+ 
+    /* Sidste afsnit: ingen ekstra luft nederst. */
+    blockquote.citat p:last-child { margin-bottom: 0; }
+ 
+    /* Kildelinjen: egen linje, mindre, grå og med brødtekstens skrifttype. */
+    blockquote.citat .kilde { display: block; margin-top: 0.9rem; font-family: "Source Sans 3", sans-serif; font-size: 0.85em; color: #555; }
+ 
+ 
+    /* ========== 8. KARAKTERSKALAEN (tabellen på Karakterskala-siden) ========== */
+ 
+    /* Selve tabellen: ens kanter og fuld bredde. */
+    table.karakterskala { border-collapse: collapse; width: 100%; }
+ 
+    /* Alle celler: tynd mørk ramme, indholdet midt i cellen lodret. */
+    table.karakterskala td { border: 1px solid #333; vertical-align: middle; }
+ 
+    /* Første kolonne (karakteren): højrestillet, fed, ingen linjeskift. */
+    table.karakterskala td:first-child { text-align: right; padding: 0.4em 0.7em 0.4em 0.4em; white-space: nowrap; font-weight: bold; }
+ 
+    /* Anden kolonne (emoji): centreret. */
+    table.karakterskala td:nth-child(2) { text-align: center; padding: 0.4em 0.8em; }
+ 
+    /* Tredje kolonne (beskrivelsen): lidt luft omkring teksten. */
+    table.karakterskala td:nth-child(3) { padding: 0.4em 0.6em; }
   </style>
 </head>
 <body>
+  {% comment %}
+    Menuen. "relative_url" sørger for, at linkene også virker, hvis
+    siden en dag ligger i en undermappe. Menupunkternes tekst er det,
+    der står mellem > og < i hver linje.
+  {% endcomment %}
   <nav>
     <a href="{{ '/' | relative_url }}">Forside</a>
     <a href="{{ '/jargon/' | relative_url }}">Jargon</a>
@@ -57,9 +201,19 @@
     <a href="{{ '/incitamenter/' | relative_url }}">J-Økonomi</a>
     <a href="{{ '/om/' | relative_url }}">Om</a>
   </nav>
+  {% comment %}
+    Overskriften vises kun på anmeldelser (sider i mappen _posts).
+    Den sammensættes af frontmatter-felterne karakter, medie og title
+    fra anmeldelsens øverste del (mellem de to --- linjer).
+  {% endcomment %}
   {% if page.collection == "posts" %}
   <h1 class="anmeldelse"><span class="kar">{{ page.karakter }}</span><span class="tit">{{ page.medie }}: “{{ page.title }}”</span></h1>
   {% endif %}
+  {% comment %}
+    Her sættes selve indholdet fra den enkelte side ind (teksten i
+    anmeldelsen, forsiden, Om-siden osv.).
+  {% endcomment %}
   {{ content }}
 </body>
 </html>
+ 
